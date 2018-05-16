@@ -1,0 +1,69 @@
+month,year,county,amount,sales_type
+12,2014,Adams,470394,medical
+12,2014,Adams,1445817,retail
+12,2014,Alamosa,,medical
+12,2014,Arapahoe,1416559,retail
+12,2014,Arapahoe,1498465,medical
+12,2014,Archuleta,,retail
+12,2014,Archuleta,,medical
+12,2014,Boulder,3592405,retail
+12,2014,Boulder,2548354,medical
+12,2014,Chaffee,,retail
+12,2014,Chaffee,,medical
+12,2014,Clear Creek,371997,retail
+12,2014,Clear Creek,83182,medical
+12,2014,Costilla,,retail
+12,2014,Costilla,,medical
+12,2014,Denver,14797861,retail
+12,2014,Denver,12138739,medical
+12,2014,Eagle,710631,retail
+12,2014,Eagle,277950,medical
+12,2014,El Paso,,retail
+12,2014,El Paso,5517533,medical
+12,2014,Garfield,560065,retail
+12,2014,Fremont,178729,medical
+12,2014,Gilpin,103121,retail
+12,2014,Garfield,283365,medical
+12,2014,Grand,,retail
+12,2014,Gilpin,34112,medical
+12,2014,Gunnison,228173,retail
+12,2014,Grand,,medical
+12,2014,Jefferson,1990092,retail
+12,2014,Gunnison,,medical
+12,2014,Lake,,retail
+12,2014,Jefferson,1832756,medical
+12,2014,La Plata,838948,retail
+12,2014,La Plata,497203,medical
+12,2014,Larimer,1613144,retail
+12,2014,Larimer,1316194,medical
+12,2014,Las Animas,,retail
+12,2014,Las Animas,,medical
+12,2014,Montezuma,,retail
+12,2014,Mesa,,medical
+12,2014,Morgan,,retail
+12,2014,Moffat,,medical
+12,2014,Ouray,,retail
+12,2014,Montezuma,117849,medical
+12,2014,Park,,retail
+12,2014,Montrose,,medical
+12,2014,Pitkin,599569,retail
+12,2014,Morgan,,medical
+12,2014,Pueblo,1158670,retail
+12,2014,Ouray,,medical
+12,2014,Routt,493734,retail
+12,2014,Park,,medical
+12,2014,Saguache,,retail
+12,2014,Pitkin,84226,medical
+12,2014,San Miguel,292834,retail
+12,2014,Pueblo,399460,medical
+12,2014,Sedgwick,,retail
+12,2014,Routt,169025,medical
+12,2014,Summit,1256397,retail
+12,2014,San Miguel,43788,medical
+12,2014,Weld,1071049,retail
+12,2014,Sedgwick,,medical
+12,2014,Sum of NR Counties,2038379,retail
+12,2014,Summit,205226,medical
+12,2014,Teller,,medical
+12,2014,Weld,394521,medical
+12,2014,Sum of NR Counties,569648,medical

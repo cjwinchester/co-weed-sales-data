@@ -1,0 +1,71 @@
+month,year,county,amount,sales_type
+01,2018,Adams,803293,medical
+01,2018,Adams,6081061,retail
+01,2018,Alamosa,,medical
+01,2018,Arapahoe,9032907,retail
+01,2018,Arapahoe,844394,medical
+01,2018,Archuleta,624455,retail
+01,2018,Archuleta,,medical
+01,2018,Boulder,6212027,retail
+01,2018,Boulder,1647031,medical
+01,2018,Chaffee,340366,retail
+01,2018,Chaffee,,medical
+01,2018,Clear Creek,596376,retail
+01,2018,Clear Creek,29971,medical
+01,2018,Conejos,390971,retail
+01,2018,Denver,13211845,medical
+01,2018,Costilla,246490,retail
+01,2018,Eagle,132762,medical
+01,2018,Denver,28855834,retail
+01,2018,El Paso,7661315,medical
+01,2018,Eagle,1599616,retail
+01,2018,Fremont,134858,medical
+01,2018,El Paso,,retail
+01,2018,Garfield,249651,medical
+01,2018,Garfield,1391402,retail
+01,2018,Gilpin,,medical
+01,2018,Gilpin,167184,retail
+01,2018,Grand,,medical
+01,2018,Grand,462433,retail
+01,2018,Gunnison,,medical
+01,2018,Gunnison,600542,retail
+01,2018,Jefferson,1278807,medical
+01,2018,Huerfano,,retail
+01,2018,La Plata,273077,medical
+01,2018,Jefferson,3912816,retail
+01,2018,Larimer,1122353,medical
+01,2018,Lake,223602,retail
+01,2018,Las Animas,44461,medical
+01,2018,La Plata,1675203,retail
+01,2018,Mesa,,medical
+01,2018,Larimer,4982764,retail
+01,2018,Moffat,,medical
+01,2018,Las Animas,3370017,retail
+01,2018,Montezuma,54617,medical
+01,2018,Mesa,1069286,retail
+01,2018,Montrose,,medical
+01,2018,Montezuma,1514572,retail
+01,2018,Morgan,,medical
+01,2018,Morgan,748636,retail
+01,2018,Otero,,medical
+01,2018,Ouray,409591,retail
+01,2018,Ouray,,medical
+01,2018,Park,334849,retail
+01,2018,Park,,medical
+01,2018,Pitkin,1361900,retail
+01,2018,Pitkin,65391,medical
+01,2018,Pueblo,3448129,retail
+01,2018,Pueblo,531897,medical
+01,2018,Routt,1140165,retail
+01,2018,Routt,165408,medical
+01,2018,Saguache,99344,retail
+01,2018,San Miguel,,medical
+01,2018,San Juan,,retail
+01,2018,Sedgwick,,medical
+01,2018,San Miguel,484986,retail
+01,2018,Summit,118928,medical
+01,2018,Sedgwick,,retail
+01,2018,Weld,348569,medical
+01,2018,Summit,2841769,retail
+01,2018,Sum of NR Counties,544682,medical
+01,2018,Weld,2300531,retail

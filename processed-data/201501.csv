@@ -1,0 +1,71 @@
+month,year,county,amount,sales_type
+01,2015,Adams,421362,medical
+01,2015,Adams,1189877,retail
+01,2015,Alamosa,,medical
+01,2015,Arapahoe,1844768,retail
+01,2015,Arapahoe,1493744,medical
+01,2015,Archuleta,,retail
+01,2015,Archuleta,,medical
+01,2015,Boulder,3565252,retail
+01,2015,Boulder,2501072,medical
+01,2015,Chaffee,,retail
+01,2015,Chaffee,,medical
+01,2015,Clear Creek,455108,retail
+01,2015,Clear Creek,79640,medical
+01,2015,Costilla,,retail
+01,2015,Costilla,,medical
+01,2015,Denver,15485689,retail
+01,2015,Denver,13374117,medical
+01,2015,Eagle,825587,retail
+01,2015,Eagle,316095,medical
+01,2015,El Paso,,retail
+01,2015,El Paso,5582451,medical
+01,2015,Garfield,616641,retail
+01,2015,Fremont,180201,medical
+01,2015,Gilpin,112455,retail
+01,2015,Garfield,325730,medical
+01,2015,Grand,,retail
+01,2015,Gilpin,31006,medical
+01,2015,Gunnison,273043,retail
+01,2015,Grand,,medical
+01,2015,Jefferson,2108127,retail
+01,2015,Gunnison,,medical
+01,2015,Lake,,retail
+01,2015,Jefferson,1868844,medical
+01,2015,La Plata,798627,retail
+01,2015,La Plata,893330,medical
+01,2015,Larimer,1728021,retail
+01,2015,Larimer,1141214,medical
+01,2015,Las Animas,224113,retail
+01,2015,Las Animas,,medical
+01,2015,Mesa,,retail
+01,2015,Mesa,,medical
+01,2015,Montezuma,,retail
+01,2015,Moffat,,medical
+01,2015,Morgan,,retail
+01,2015,Montezuma,114767,medical
+01,2015,Ouray,,retail
+01,2015,Montrose,,medical
+01,2015,Park,,retail
+01,2015,Morgan,,medical
+01,2015,Pitkin,813722,retail
+01,2015,Ouray,,medical
+01,2015,Pueblo,1063092,retail
+01,2015,Park,,medical
+01,2015,Routt,,retail
+01,2015,Pitkin,90522,medical
+01,2015,Saguache,,retail
+01,2015,Pueblo,359950,medical
+01,2015,San Juan,,retail
+01,2015,Routt,,medical
+01,2015,San Miguel,374588,retail
+01,2015,San Miguel,50579,medical
+01,2015,Sedgwick,,retail
+01,2015,Sedgwick,,medical
+01,2015,Summit,1685111,retail
+01,2015,Summit,255639,medical
+01,2015,Weld,1199406,retail
+01,2015,Teller,,medical
+01,2015,Sum of NR Counties,2860806,retail
+01,2015,Weld,340278,medical
+01,2015,Sum of NR Counties,761292,medical

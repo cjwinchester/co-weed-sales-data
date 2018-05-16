@@ -1,0 +1,73 @@
+month,year,county,amount,sales_type
+05,2016,Adams,391906,medical
+05,2016,Adams,3360096,retail
+05,2016,Alamosa,,medical
+05,2016,Arapahoe,7426175,retail
+05,2016,Arapahoe,1511924,medical
+05,2016,Archuleta,,retail
+05,2016,Archuleta,,medical
+05,2016,Boulder,5315292,retail
+05,2016,Boulder,2436555,medical
+05,2016,Chaffee,333276,retail
+05,2016,Chaffee,,medical
+05,2016,Clear Creek,452848,retail
+05,2016,Clear Creek,83258,medical
+05,2016,Conejos,257716,retail
+05,2016,Costilla,,medical
+05,2016,Costilla,223862,retail
+05,2016,Denver,17833330,medical
+05,2016,Denver,21615189,retail
+05,2016,Eagle,194685,medical
+05,2016,Eagle,650881,retail
+05,2016,El Paso,8343490,medical
+05,2016,El Paso,,retail
+05,2016,Fremont,207499,medical
+05,2016,Garfield,1210134,retail
+05,2016,Garfield,526740,medical
+05,2016,Gilpin,225826,retail
+05,2016,Gilpin,,medical
+05,2016,Grand,189787,retail
+05,2016,Grand,,medical
+05,2016,Gunnison,344705,retail
+05,2016,Gunnison,,medical
+05,2016,Huerfano,,retail
+05,2016,Jefferson,1679965,medical
+05,2016,Jefferson,3572041,retail
+05,2016,La Plata,400259,medical
+05,2016,Lake,147684,retail
+05,2016,Larimer,1292029,medical
+05,2016,La Plata,1740113,retail
+05,2016,Las Animas,,medical
+05,2016,Larimer,3465166,retail
+05,2016,Mesa,,medical
+05,2016,Las Animas,1456567,retail
+05,2016,Moffat,,medical
+05,2016,Mesa,,retail
+05,2016,Montezuma,100642,medical
+05,2016,Montezuma,842550,retail
+05,2016,Montrose,,medical
+05,2016,Morgan,543167,retail
+05,2016,Morgan,,medical
+05,2016,Ouray,325887,retail
+05,2016,Ouray,,medical
+05,2016,Park,237775,retail
+05,2016,Park,,medical
+05,2016,Pitkin,392581,retail
+05,2016,Pitkin,80601,medical
+05,2016,Pueblo,2184317,retail
+05,2016,Pueblo,1262557,medical
+05,2016,Routt,514632,retail
+05,2016,Routt,,medical
+05,2016,Saguache,,retail
+05,2016,San Miguel,37042,medical
+05,2016,San Juan,,retail
+05,2016,Sedgwick,,medical
+05,2016,San Miguel,157740,retail
+05,2016,Summit,161710,medical
+05,2016,Sedgwick,,retail
+05,2016,Teller,,medical
+05,2016,Summit,991298,retail
+05,2016,Weld,360773,medical
+05,2016,Weld,2043048,retail
+05,2016,Sum of NR Counties,731330,medical
+05,2016,Sum of NR Counties,3610718,retail

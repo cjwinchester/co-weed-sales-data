@@ -1,0 +1,71 @@
+month,year,county,amount,sales_type
+11,2017,Adams,999483,medical
+11,2017,Adams,5558469,retail
+11,2017,Alamosa,,medical
+11,2017,Arapahoe,9034873,retail
+11,2017,Arapahoe,755136,medical
+11,2017,Archuleta,508490,retail
+11,2017,Archuleta,,medical
+11,2017,Boulder,6329971,retail
+11,2017,Boulder,1770651,medical
+11,2017,Chaffee,347798,retail
+11,2017,Chaffee,,medical
+11,2017,Clear Creek,453940,retail
+11,2017,Clear Creek,38372,medical
+11,2017,Conejos,424081,retail
+11,2017,Denver,15704331,medical
+11,2017,Costilla,247946,retail
+11,2017,Eagle,118682,medical
+11,2017,Denver,31195308,retail
+11,2017,El Paso,7652843,medical
+11,2017,Eagle,980728,retail
+11,2017,Fremont,133101,medical
+11,2017,El Paso,,retail
+11,2017,Garfield,243896,medical
+11,2017,Garfield,1581537,retail
+11,2017,Gilpin,,medical
+11,2017,Gilpin,188913,retail
+11,2017,Grand,,medical
+11,2017,Grand,272045,retail
+11,2017,Gunnison,,medical
+11,2017,Gunnison,433357,retail
+11,2017,Jefferson,1302651,medical
+11,2017,Huerfano,,retail
+11,2017,La Plata,278348,medical
+11,2017,Jefferson,3678694,retail
+11,2017,Larimer,1095959,medical
+11,2017,Lake,174191,retail
+11,2017,Las Animas,36449,medical
+11,2017,La Plata,1753119,retail
+11,2017,Mesa,,medical
+11,2017,Larimer,5125412,retail
+11,2017,Moffat,,medical
+11,2017,Las Animas,3956545,retail
+11,2017,Montezuma,54431,medical
+11,2017,Mesa,963023,retail
+11,2017,Montrose,,medical
+11,2017,Montezuma,1658451,retail
+11,2017,Morgan,,medical
+11,2017,Morgan,880963,retail
+11,2017,Otero,,medical
+11,2017,Ouray,,retail
+11,2017,Ouray,,medical
+11,2017,Park,323525,retail
+11,2017,Park,,medical
+11,2017,Pitkin,571977,retail
+11,2017,Pitkin,53994,medical
+11,2017,Pueblo,3320340,retail
+11,2017,Pueblo,501175,medical
+11,2017,Routt,661206,retail
+11,2017,Routt,,medical
+11,2017,Saguache,95793,retail
+11,2017,San Miguel,,medical
+11,2017,San Juan,,retail
+11,2017,Sedgwick,,medical
+11,2017,San Miguel,181166,retail
+11,2017,Summit,114788,medical
+11,2017,Sedgwick,,retail
+11,2017,Weld,351629,medical
+11,2017,Summit,1411797,retail
+11,2017,Sum of NR Counties,672549,medical
+11,2017,Weld,2433403,retail

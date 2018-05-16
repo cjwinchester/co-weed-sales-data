@@ -1,0 +1,71 @@
+month,year,county,amount,sales_type
+05,2015,Adams,495716,medical
+05,2015,Adams,1687270,retail
+05,2015,Alamosa,,medical
+05,2015,Arapahoe,3615509,retail
+05,2015,Arapahoe,1588756,medical
+05,2015,Archuleta,,retail
+05,2015,Archuleta,,medical
+05,2015,Boulder,4281906,retail
+05,2015,Boulder,2451648,medical
+05,2015,Chaffee,312605,retail
+05,2015,Chaffee,,medical
+05,2015,Clear Creek,348152,retail
+05,2015,Clear Creek,96276,medical
+05,2015,Costilla,,retail
+05,2015,Costilla,,medical
+05,2015,Denver,17590490,retail
+05,2015,Denver,15598475,medical
+05,2015,Eagle,432292,retail
+05,2015,Eagle,259399,medical
+05,2015,El Paso,,retail
+05,2015,El Paso,6793848,medical
+05,2015,Garfield,720995,retail
+05,2015,Fremont,200945,medical
+05,2015,Gilpin,143079,retail
+05,2015,Garfield,407487,medical
+05,2015,Grand,,retail
+05,2015,Gilpin,,medical
+05,2015,Gunnison,176131,retail
+05,2015,Grand,,medical
+05,2015,Jefferson,2538231,retail
+05,2015,Gunnison,,medical
+05,2015,Lake,,retail
+05,2015,Jefferson,1933694,medical
+05,2015,La Plata,1155547,retail
+05,2015,La Plata,452253,medical
+05,2015,Larimer,2292433,retail
+05,2015,Larimer,1292742,medical
+05,2015,Las Animas,606835,retail
+05,2015,Las Animas,,medical
+05,2015,Mesa,,retail
+05,2015,Mesa,,medical
+05,2015,Montezuma,403035,retail
+05,2015,Moffat,,medical
+05,2015,Morgan,,retail
+05,2015,Montezuma,136143,medical
+05,2015,Ouray,,retail
+05,2015,Montrose,,medical
+05,2015,Park,154563,retail
+05,2015,Morgan,,medical
+05,2015,Pitkin,329419,retail
+05,2015,Ouray,,medical
+05,2015,Pueblo,1482501,retail
+05,2015,Park,,medical
+05,2015,Routt,419611,retail
+05,2015,Pitkin,57287,medical
+05,2015,Saguache,,retail
+05,2015,Pueblo,396182,medical
+05,2015,San Juan,,retail
+05,2015,Routt,163870,medical
+05,2015,San Miguel,153689,retail
+05,2015,San Miguel,,medical
+05,2015,Sedgwick,,retail
+05,2015,Sedgwick,,medical
+05,2015,Summit,719343,retail
+05,2015,Summit,224409,medical
+05,2015,Weld,1636318,retail
+05,2015,Teller,,medical
+05,2015,Sum of NR Counties,3390899,retail
+05,2015,Weld,342765,medical
+05,2015,Sum of NR Counties,717221,medical

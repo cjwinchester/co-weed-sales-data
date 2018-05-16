@@ -1,0 +1,74 @@
+month,year,county,amount,sales_type
+08,2017,Adams,1126750,medical
+08,2017,Adams,5481342,retail
+08,2017,Alamosa,,medical
+08,2017,Arapahoe,9187128,retail
+08,2017,Arapahoe,911448,medical
+08,2017,Archuleta,776784,retail
+08,2017,Archuleta,,medical
+08,2017,Boulder,7401555,retail
+08,2017,Boulder,1883573,medical
+08,2017,Chaffee,614319,retail
+08,2017,Chaffee,,medical
+08,2017,Clear Creek,632988,retail
+08,2017,Clear Creek,43341,medical
+08,2017,Conejos,571105,retail
+08,2017,Costilla,,medical
+08,2017,Costilla,400679,retail
+08,2017,Denver,18574912,medical
+08,2017,Denver,35043361,retail
+08,2017,Eagle,154928,medical
+08,2017,Eagle,1394312,retail
+08,2017,El Paso,8645974,medical
+08,2017,El Paso,,retail
+08,2017,Fremont,184251,medical
+08,2017,Garfield,2108270,retail
+08,2017,Garfield,325823,medical
+08,2017,Gilpin,251283,retail
+08,2017,Gilpin,,medical
+08,2017,Grand,426846,retail
+08,2017,Grand,,medical
+08,2017,Gunnison,809595,retail
+08,2017,Gunnison,,medical
+08,2017,Huerfano,,retail
+08,2017,Jefferson,1353370,medical
+08,2017,Jefferson,4474575,retail
+08,2017,La Plata,298055,medical
+08,2017,Lake,322375,retail
+08,2017,Larimer,1206766,medical
+08,2017,La Plata,2289292,retail
+08,2017,Las Animas,45309,medical
+08,2017,Larimer,5554496,retail
+08,2017,Mesa,,medical
+08,2017,Las Animas,4437323,retail
+08,2017,Moffat,,medical
+08,2017,Mesa,,retail
+08,2017,Montezuma,93411,medical
+08,2017,Montezuma,1862970,retail
+08,2017,Montrose,,medical
+08,2017,Morgan,964989,retail
+08,2017,Morgan,,medical
+08,2017,Ouray,621133,retail
+08,2017,Otero,,medical
+08,2017,Park,455141,retail
+08,2017,Ouray,,medical
+08,2017,Pitkin,1205815,retail
+08,2017,Park,,medical
+08,2017,Pueblo,3815493,retail
+08,2017,Pitkin,66581,medical
+08,2017,Routt,976301,retail
+08,2017,Pueblo,737016,medical
+08,2017,Saguache,,retail
+08,2017,Routt,,medical
+08,2017,San Juan,,retail
+08,2017,San Miguel,21450,medical
+08,2017,San Miguel,450802,retail
+08,2017,Sedgwick,,medical
+08,2017,Sedgwick,,retail
+08,2017,Summit,112638,medical
+08,2017,Summit,1890882,retail
+08,2017,Teller,,medical
+08,2017,Weld,2708742,retail
+08,2017,Weld,315417,medical
+08,2017,Sum of NR Counties,4418186,retail
+08,2017,Sum of NR Counties,820062,medical

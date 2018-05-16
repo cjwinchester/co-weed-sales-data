@@ -1,0 +1,74 @@
+month,year,county,amount,sales_type
+07,2017,Adams,971747,medical
+07,2017,Adams,5462382,retail
+07,2017,Alamosa,,medical
+07,2017,Arapahoe,9672770,retail
+07,2017,Arapahoe,953749,medical
+07,2017,Archuleta,884084,retail
+07,2017,Archuleta,,medical
+07,2017,Boulder,7070534,retail
+07,2017,Boulder,1851637,medical
+07,2017,Chaffee,662413,retail
+07,2017,Chaffee,,medical
+07,2017,Clear Creek,678322,retail
+07,2017,Clear Creek,34954,medical
+07,2017,Conejos,586118,retail
+07,2017,Costilla,,medical
+07,2017,Costilla,453934,retail
+07,2017,Denver,17274275,medical
+07,2017,Denver,34007419,retail
+07,2017,Eagle,142382,medical
+07,2017,Eagle,1159081,retail
+07,2017,El Paso,8717083,medical
+07,2017,El Paso,,retail
+07,2017,Fremont,184871,medical
+07,2017,Garfield,2128843,retail
+07,2017,Garfield,307082,medical
+07,2017,Gilpin,271414,retail
+07,2017,Gilpin,,medical
+07,2017,Grand,455029,retail
+07,2017,Grand,,medical
+07,2017,Gunnison,892740,retail
+07,2017,Gunnison,,medical
+07,2017,Huerfano,,retail
+07,2017,Jefferson,1282271,medical
+07,2017,Jefferson,4525746,retail
+07,2017,La Plata,297527,medical
+07,2017,Lake,320873,retail
+07,2017,Larimer,1186223,medical
+07,2017,La Plata,2366747,retail
+07,2017,Las Animas,,medical
+07,2017,Larimer,5303480,retail
+07,2017,Mesa,,medical
+07,2017,Las Animas,4383708,retail
+07,2017,Moffat,,medical
+07,2017,Mesa,,retail
+07,2017,Montezuma,73002,medical
+07,2017,Montezuma,1884658,retail
+07,2017,Montrose,,medical
+07,2017,Morgan,909700,retail
+07,2017,Morgan,,medical
+07,2017,Ouray,,retail
+07,2017,Otero,,medical
+07,2017,Park,465717,retail
+07,2017,Ouray,,medical
+07,2017,Pitkin,1267251,retail
+07,2017,Park,,medical
+07,2017,Pueblo,3762112,retail
+07,2017,Pitkin,74079,medical
+07,2017,Routt,1009377,retail
+07,2017,Pueblo,684190,medical
+07,2017,Saguache,,retail
+07,2017,Routt,,medical
+07,2017,San Juan,,retail
+07,2017,San Miguel,26729,medical
+07,2017,San Miguel,521810,retail
+07,2017,Sedgwick,,medical
+07,2017,Sedgwick,,retail
+07,2017,Summit,119533,medical
+07,2017,Summit,2001214,retail
+07,2017,Teller,,medical
+07,2017,Weld,2659205,retail
+07,2017,Weld,288400,medical
+07,2017,Sum of NR Counties,5270772,retail
+07,2017,Sum of NR Counties,787260,medical

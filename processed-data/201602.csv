@@ -1,0 +1,73 @@
+month,year,county,amount,sales_type
+02,2016,Adams,331503,medical
+02,2016,Adams,2597102,retail
+02,2016,Alamosa,,medical
+02,2016,Arapahoe,6229934,retail
+02,2016,Arapahoe,1502406,medical
+02,2016,Archuleta,,retail
+02,2016,Archuleta,,medical
+02,2016,Boulder,4477304,retail
+02,2016,Boulder,2517617,medical
+02,2016,Chaffee,281840,retail
+02,2016,Chaffee,,medical
+02,2016,Clear Creek,535811,retail
+02,2016,Clear Creek,89373,medical
+02,2016,Conejos,163449,retail
+02,2016,Costilla,,medical
+02,2016,Costilla,153417,retail
+02,2016,Denver,15302180,medical
+02,2016,Denver,19129746,retail
+02,2016,Eagle,234659,medical
+02,2016,Eagle,1176777,retail
+02,2016,El Paso,7548713,medical
+02,2016,El Paso,,retail
+02,2016,Fremont,,medical
+02,2016,Garfield,860185,retail
+02,2016,Garfield,386348,medical
+02,2016,Gilpin,172887,retail
+02,2016,Gilpin,,medical
+02,2016,Grand,279018,retail
+02,2016,Grand,,medical
+02,2016,Gunnison,413264,retail
+02,2016,Gunnison,,medical
+02,2016,Huerfano,,retail
+02,2016,Jefferson,1589401,medical
+02,2016,Jefferson,2970642,retail
+02,2016,La Plata,360382,medical
+02,2016,Lake,,retail
+02,2016,Larimer,1341468,medical
+02,2016,La Plata,1484507,retail
+02,2016,Las Animas,,medical
+02,2016,Larimer,2878307,retail
+02,2016,Mesa,,medical
+02,2016,Las Animas,1012648,retail
+02,2016,Moffat,,medical
+02,2016,Mesa,,retail
+02,2016,Montezuma,102860,medical
+02,2016,Montezuma,600808,retail
+02,2016,Montrose,,medical
+02,2016,Morgan,,retail
+02,2016,Morgan,,medical
+02,2016,Ouray,,retail
+02,2016,Ouray,,medical
+02,2016,Park,176302,retail
+02,2016,Park,,medical
+02,2016,Pitkin,964350,retail
+02,2016,Pitkin,95627,medical
+02,2016,Pueblo,1686427,retail
+02,2016,Pueblo,980275,medical
+02,2016,Routt,772020,retail
+02,2016,Routt,193928,medical
+02,2016,Saguache,,retail
+02,2016,San Miguel,46544,medical
+02,2016,San Juan,,retail
+02,2016,Sedgwick,,medical
+02,2016,San Miguel,339892,retail
+02,2016,Summit,212147,medical
+02,2016,Sedgwick,,retail
+02,2016,Teller,,medical
+02,2016,Summit,2116576,retail
+02,2016,Weld,395983,medical
+02,2016,Weld,1866786,retail
+02,2016,Sum of NR Counties,787820,medical
+02,2016,Sum of NR Counties,3705315,retail

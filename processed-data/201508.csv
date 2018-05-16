@@ -1,0 +1,73 @@
+month,year,county,amount,sales_type
+08,2015,Adams,414843,medical
+08,2015,Adams,2007490,retail
+08,2015,Alamosa,,medical
+08,2015,Arapahoe,5068738,retail
+08,2015,Arapahoe,1782767,medical
+08,2015,Archuleta,,retail
+08,2015,Archuleta,,medical
+08,2015,Boulder,5076823,retail
+08,2015,Boulder,2854869,medical
+08,2015,Chaffee,529711,retail
+08,2015,Chaffee,,medical
+08,2015,Clear Creek,549270,retail
+08,2015,Clear Creek,99241,medical
+08,2015,Conejos,,retail
+08,2015,Costilla,,medical
+08,2015,Costilla,,retail
+08,2015,Denver,18920270,medical
+08,2015,Denver,20586503,retail
+08,2015,Eagle,321194,medical
+08,2015,Eagle,755726,retail
+08,2015,El Paso,8703525,medical
+08,2015,El Paso,,retail
+08,2015,Fremont,247910,medical
+08,2015,Garfield,919088,retail
+08,2015,Garfield,623488,medical
+08,2015,Gilpin,209981,retail
+08,2015,Gilpin,33160,medical
+08,2015,Grand,234153,retail
+08,2015,Grand,,medical
+08,2015,Gunnison,454015,retail
+08,2015,Gunnison,,medical
+08,2015,Huerfano,,retail
+08,2015,Jefferson,2119709,medical
+08,2015,Jefferson,3008160,retail
+08,2015,La Plata,468119,medical
+08,2015,Lake,,retail
+08,2015,Larimer,1506663,medical
+08,2015,La Plata,1517581,retail
+08,2015,Las Animas,,medical
+08,2015,Larimer,2921981,retail
+08,2015,Mesa,,medical
+08,2015,Las Animas,1043528,retail
+08,2015,Moffat,,medical
+08,2015,Mesa,,retail
+08,2015,Montezuma,141894,medical
+08,2015,Montezuma,602753,retail
+08,2015,Montrose,,medical
+08,2015,Morgan,,retail
+08,2015,Morgan,,medical
+08,2015,Ouray,,retail
+08,2015,Ouray,,medical
+08,2015,Park,220562,retail
+08,2015,Park,,medical
+08,2015,Pitkin,815391,retail
+08,2015,Pitkin,100615,medical
+08,2015,Pueblo,1894167,retail
+08,2015,Pueblo,879622,medical
+08,2015,Routt,649959,retail
+08,2015,Routt,197957,medical
+08,2015,Saguache,,retail
+08,2015,San Miguel,48630,medical
+08,2015,San Juan,,retail
+08,2015,Sedgwick,,medical
+08,2015,San Miguel,367696,retail
+08,2015,Summit,237146,medical
+08,2015,Sedgwick,,retail
+08,2015,Teller,,medical
+08,2015,Summit,1325273,retail
+08,2015,Weld,429172,medical
+08,2015,Weld,1964176,retail
+08,2015,Sum of NR Counties,688574,medical
+08,2015,Sum of NR Counties,4956757,retail

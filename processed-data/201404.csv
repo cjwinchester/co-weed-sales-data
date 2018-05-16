@@ -1,0 +1,54 @@
+month,year,county,amount,sales_type
+04,2014,Adams,452636,medical
+04,2014,Adams,,retail
+04,2014,Alamosa,,medical
+04,2014,Boulder,1835900,retail
+04,2014,Arapahoe,1517828,medical
+04,2014,Clear Creek,369117,retail
+04,2014,Archuleta,,medical
+04,2014,Denver,12005332,retail
+04,2014,Boulder,3136133,medical
+04,2014,Garfield,,retail
+04,2014,Chaffee,,medical
+04,2014,Gilpin,114408,retail
+04,2014,Clear Creek,92791,medical
+04,2014,Gunnison,,retail
+04,2014,Costilla,,medical
+04,2014,Jefferson,1368618,retail
+04,2014,Denver,15064678,medical
+04,2014,Lake,,retail
+04,2014,Eagle,178397,medical
+04,2014,Larimer,,retail
+04,2014,El Paso,5535184,medical
+04,2014,Ouray,,retail
+04,2014,Fremont,225243,medical
+04,2014,Park,,retail
+04,2014,Garfield,371447,medical
+04,2014,Pitkin,227021,retail
+04,2014,Gilpin,43162,medical
+04,2014,Pueblo,1132339,retail
+04,2014,Grand,,medical
+04,2014,Routt,,retail
+04,2014,Gunnison,,medical
+04,2014,San Miguel,188733,retail
+04,2014,Jefferson,2039086,medical
+04,2014,Summit,757131,retail
+04,2014,La Plata,613521,medical
+04,2014,Weld,521853,retail
+04,2014,Larimer,1162178,medical
+04,2014,Sum of NR Counties,2245534,retail
+04,2014,Mesa,,medical
+04,2014,Moffat,,medical
+04,2014,Montezuma,108703,medical
+04,2014,Montrose,,medical
+04,2014,Ouray,,medical
+04,2014,Park,,medical
+04,2014,Pitkin,123525,medical
+04,2014,Pueblo,401959,medical
+04,2014,Routt,186308,medical
+04,2014,San Miguel,64107,medical
+04,2014,Sedgwick,,medical
+04,2014,Summit,243097,medical
+04,2014,Teller,,medical
+04,2014,Weld,519545,medical
+04,2014,Sum of NR Counties,607341,medical

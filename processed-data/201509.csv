@@ -1,0 +1,73 @@
+month,year,county,amount,sales_type
+09,2015,Adams,456102,medical
+09,2015,Adams,2066128,retail
+09,2015,Alamosa,,medical
+09,2015,Arapahoe,5321883,retail
+09,2015,Arapahoe,1821831,medical
+09,2015,Archuleta,,retail
+09,2015,Archuleta,,medical
+09,2015,Boulder,4564394,retail
+09,2015,Boulder,2808636,medical
+09,2015,Chaffee,391518,retail
+09,2015,Chaffee,,medical
+09,2015,Clear Creek,490483,retail
+09,2015,Clear Creek,98054,medical
+09,2015,Conejos,,retail
+09,2015,Costilla,,medical
+09,2015,Costilla,,retail
+09,2015,Denver,18017794,medical
+09,2015,Denver,19062651,retail
+09,2015,Eagle,306549,medical
+09,2015,Eagle,632711,retail
+09,2015,El Paso,8632187,medical
+09,2015,El Paso,,retail
+09,2015,Fremont,262093,medical
+09,2015,Garfield,888159,retail
+09,2015,Garfield,558081,medical
+09,2015,Gilpin,206010,retail
+09,2015,Gilpin,31881,medical
+09,2015,Grand,182101,retail
+09,2015,Grand,,medical
+09,2015,Gunnison,333527,retail
+09,2015,Gunnison,,medical
+09,2015,Huerfano,,retail
+09,2015,Jefferson,2096374,medical
+09,2015,Jefferson,2859786,retail
+09,2015,La Plata,489476,medical
+09,2015,Lake,,retail
+09,2015,Larimer,1546038,medical
+09,2015,La Plata,1596319,retail
+09,2015,Las Animas,,medical
+09,2015,Larimer,2735329,retail
+09,2015,Mesa,,medical
+09,2015,Las Animas,1018744,retail
+09,2015,Moffat,,medical
+09,2015,Mesa,,retail
+09,2015,Montezuma,122425,medical
+09,2015,Montezuma,605971,retail
+09,2015,Montrose,,medical
+09,2015,Morgan,,retail
+09,2015,Morgan,,medical
+09,2015,Ouray,342064,retail
+09,2015,Ouray,,medical
+09,2015,Park,185916,retail
+09,2015,Park,,medical
+09,2015,Pitkin,627987,retail
+09,2015,Pitkin,90803,medical
+09,2015,Pueblo,1721621,retail
+09,2015,Pueblo,1004209,medical
+09,2015,Routt,576410,retail
+09,2015,Routt,216833,medical
+09,2015,Saguache,,retail
+09,2015,San Miguel,53511,medical
+09,2015,San Juan,,retail
+09,2015,Sedgwick,,medical
+09,2015,San Miguel,330093,retail
+09,2015,Summit,235065,medical
+09,2015,Sedgwick,,retail
+09,2015,Teller,,medical
+09,2015,Summit,1024344,retail
+09,2015,Weld,447995,medical
+09,2015,Weld,1804494,retail
+09,2015,Sum of NR Counties,695876,medical
+09,2015,Sum of NR Counties,4070723,retail

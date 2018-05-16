@@ -1,0 +1,69 @@
+month,year,county,amount,sales_type
+02,2018,Adams,686490,medical
+02,2018,Adams,5562602,retail
+02,2018,Alamosa,,medical
+02,2018,Arapahoe,8659080,retail
+02,2018,Arapahoe,788639,medical
+02,2018,Archuleta,568046,retail
+02,2018,Archuleta,,medical
+02,2018,Boulder,5937258,retail
+02,2018,Boulder,1481838,medical
+02,2018,Chaffee,364706,retail
+02,2018,Chaffee,,medical
+02,2018,Clear Creek,578860,retail
+02,2018,Clear Creek,28097,medical
+02,2018,Conejos,383902,retail
+02,2018,Denver,11430319,medical
+02,2018,Costilla,254480,retail
+02,2018,Eagle,119561,medical
+02,2018,Denver,27629202,retail
+02,2018,El Paso,7412365,medical
+02,2018,Eagle,1633799,retail
+02,2018,Fremont,134945,medical
+02,2018,El Paso,,retail
+02,2018,Garfield,239710,medical
+02,2018,Garfield,1361931,retail
+02,2018,Gilpin,,medical
+02,2018,Gilpin,162046,retail
+02,2018,Grand,,medical
+02,2018,Grand,455352,retail
+02,2018,Jefferson,1205386,medical
+02,2018,Gunnison,518883,retail
+02,2018,La Plata,277446,medical
+02,2018,Huerfano,,retail
+02,2018,Larimer,1057880,medical
+02,2018,Jefferson,3648040,retail
+02,2018,Las Animas,36072,medical
+02,2018,Lake,197617,retail
+02,2018,Mesa,,medical
+02,2018,La Plata,1752698,retail
+02,2018,Moffat,,medical
+02,2018,Larimer,4825740,retail
+02,2018,Montezuma,52213,medical
+02,2018,Las Animas,3477803,retail
+02,2018,Montrose,,medical
+02,2018,Mesa,1179371,retail
+02,2018,Morgan,,medical
+02,2018,Montezuma,1646139,retail
+02,2018,Otero,,medical
+02,2018,Morgan,821939,retail
+02,2018,Ouray,,medical
+02,2018,Ouray,436779,retail
+02,2018,Park,,medical
+02,2018,Park,303972,retail
+02,2018,Pitkin,58230,medical
+02,2018,Pitkin,1215285,retail
+02,2018,Pueblo,508986,medical
+02,2018,Pueblo,3697366,retail
+02,2018,Routt,158779,medical
+02,2018,Routt,1072374,retail
+02,2018,San Miguel,,medical
+02,2018,Saguache,98025,retail
+02,2018,Sedgwick,,medical
+02,2018,San Juan,,retail
+02,2018,Summit,106905,medical
+02,2018,San Miguel,428164,retail
+02,2018,Weld,327679,medical
+02,2018,Sedgwick,,retail
+02,2018,Sum of NR Counties,528764,medical
+02,2018,Summit,2548153,retail

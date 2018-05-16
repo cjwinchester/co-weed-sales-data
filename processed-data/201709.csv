@@ -1,0 +1,73 @@
+month,year,county,amount,sales_type
+09,2017,Adams,986385,medical
+09,2017,Adams,5591544,retail
+09,2017,Alamosa,,medical
+09,2017,Arapahoe,9476898,retail
+09,2017,Arapahoe,868838,medical
+09,2017,Archuleta,715518,retail
+09,2017,Archuleta,,medical
+09,2017,Boulder,7089840,retail
+09,2017,Boulder,1867935,medical
+09,2017,Chaffee,547218,retail
+09,2017,Chaffee,,medical
+09,2017,Clear Creek,570485,retail
+09,2017,Clear Creek,45086,medical
+09,2017,Conejos,555120,retail
+09,2017,Costilla,,medical
+09,2017,Costilla,424241,retail
+09,2017,Denver,17531038,medical
+09,2017,Denver,34766657,retail
+09,2017,Eagle,138445,medical
+09,2017,Eagle,1212598,retail
+09,2017,El Paso,8591074,medical
+09,2017,El Paso,,retail
+09,2017,Fremont,166500,medical
+09,2017,Garfield,2104540,retail
+09,2017,Garfield,320870,medical
+09,2017,Gilpin,266428,retail
+09,2017,Gilpin,,medical
+09,2017,Grand,355550,retail
+09,2017,Grand,,medical
+09,2017,Gunnison,728296,retail
+09,2017,Gunnison,,medical
+09,2017,Huerfano,,retail
+09,2017,Jefferson,1391833,medical
+09,2017,Jefferson,4335662,retail
+09,2017,La Plata,301865,medical
+09,2017,Lake,272842,retail
+09,2017,Larimer,1214136,medical
+09,2017,La Plata,2211371,retail
+09,2017,Las Animas,42148,medical
+09,2017,Larimer,5491456,retail
+09,2017,Mesa,,medical
+09,2017,Las Animas,4669330,retail
+09,2017,Moffat,,medical
+09,2017,Mesa,931484,retail
+09,2017,Montezuma,74493,medical
+09,2017,Montezuma,1890596,retail
+09,2017,Montrose,,medical
+09,2017,Morgan,972694,retail
+09,2017,Morgan,,medical
+09,2017,Ouray,641630,retail
+09,2017,Otero,,medical
+09,2017,Park,401682,retail
+09,2017,Ouray,,medical
+09,2017,Pitkin,1058088,retail
+09,2017,Park,,medical
+09,2017,Pueblo,3869882,retail
+09,2017,Pitkin,64771,medical
+09,2017,Routt,924592,retail
+09,2017,Pueblo,677550,medical
+09,2017,Saguache,151900,retail
+09,2017,Routt,,medical
+09,2017,San Juan,,retail
+09,2017,San Miguel,,medical
+09,2017,San Miguel,475875,retail
+09,2017,Sedgwick,,medical
+09,2017,Sedgwick,,retail
+09,2017,Summit,115774,medical
+09,2017,Summit,1561814,retail
+09,2017,Weld,330702,medical
+09,2017,Weld,2723950,retail
+09,2017,Sum of NR Counties,788590,medical
+09,2017,Sum of NR Counties,3290855,retail

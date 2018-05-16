@@ -1,0 +1,74 @@
+month,year,county,amount,sales_type
+02,2017,Adams,602151,medical
+02,2017,Adams,4117924,retail
+02,2017,Alamosa,,medical
+02,2017,Arapahoe,8243087,retail
+02,2017,Arapahoe,1330979,medical
+02,2017,Archuleta,498578,retail
+02,2017,Archuleta,,medical
+02,2017,Boulder,5165008,retail
+02,2017,Boulder,1728022,medical
+02,2017,Chaffee,311277,retail
+02,2017,Chaffee,,medical
+02,2017,Clear Creek,551247,retail
+02,2017,Clear Creek,59126,medical
+02,2017,Conejos,331768,retail
+02,2017,Costilla,,medical
+02,2017,Costilla,214658,retail
+02,2017,Denver,14300291,medical
+02,2017,Denver,25223748,retail
+02,2017,Eagle,136357,medical
+02,2017,Eagle,1277562,retail
+02,2017,El Paso,7876520,medical
+02,2017,El Paso,,retail
+02,2017,Fremont,164115,medical
+02,2017,Garfield,1492785,retail
+02,2017,Garfield,274508,medical
+02,2017,Gilpin,180512,retail
+02,2017,Gilpin,,medical
+02,2017,Grand,366095,retail
+02,2017,Grand,,medical
+02,2017,Gunnison,493440,retail
+02,2017,Gunnison,,medical
+02,2017,Huerfano,,retail
+02,2017,Jefferson,1519126,medical
+02,2017,Jefferson,3970982,retail
+02,2017,La Plata,282052,medical
+02,2017,La Plata,1708769,retail
+02,2017,Larimer,1041868,medical
+02,2017,Lake,187885,retail
+02,2017,Las Animas,31212,medical
+02,2017,Larimer,3771110,retail
+02,2017,Mesa,,medical
+02,2017,Las Animas,2558480,retail
+02,2017,Moffat,,medical
+02,2017,Mesa,,retail
+02,2017,Montezuma,57030,medical
+02,2017,Montezuma,1275430,retail
+02,2017,Montrose,,medical
+02,2017,Morgan,623494,retail
+02,2017,Morgan,,medical
+02,2017,Ouray,331947,retail
+02,2017,Otero,,medical
+02,2017,Park,275968,retail
+02,2017,Ouray,,medical
+02,2017,Pitkin,1076901,retail
+02,2017,Park,,medical
+02,2017,Pueblo,2575500,retail
+02,2017,Pitkin,64017,medical
+02,2017,Routt,912576,retail
+02,2017,Pueblo,562271,medical
+02,2017,Saguache,,retail
+02,2017,Routt,161179,medical
+02,2017,San Juan,,retail
+02,2017,San Miguel,22889,medical
+02,2017,San Miguel,394742,retail
+02,2017,Sedgwick,,medical
+02,2017,Sedgwick,,retail
+02,2017,Summit,138716,medical
+02,2017,Summit,2403241,retail
+02,2017,Teller,,medical
+02,2017,Weld,2440896,retail
+02,2017,Weld,270319,medical
+02,2017,Sum of NR Counties,2690356,retail
+02,2017,Sum of NR Counties,451665,medical

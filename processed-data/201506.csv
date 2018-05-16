@@ -1,0 +1,72 @@
+month,year,county,amount,sales_type
+06,2015,Adams,441872,medical
+06,2015,Adams,,retail
+06,2015,Alamosa,,medical
+06,2015,Arapahoe,3753244,retail
+06,2015,Arapahoe,1525525,medical
+06,2015,Archuleta,,retail
+06,2015,Archuleta,,medical
+06,2015,Boulder,4273572,retail
+06,2015,Boulder,2363534,medical
+06,2015,Chaffee,,retail
+06,2015,Chaffee,,medical
+06,2015,Clear Creek,441514,retail
+06,2015,Clear Creek,90303,medical
+06,2015,Costilla,,retail
+06,2015,Costilla,,medical
+06,2015,Denver,17280785,retail
+06,2015,Denver,16545160,medical
+06,2015,Eagle,534649,retail
+06,2015,Eagle,259462,medical
+06,2015,El Paso,,retail
+06,2015,El Paso,7050814,medical
+06,2015,Garfield,798425,retail
+06,2015,Fremont,205924,medical
+06,2015,Gilpin,183787,retail
+06,2015,Garfield,430562,medical
+06,2015,Grand,142695,retail
+06,2015,Gilpin,,medical
+06,2015,Gunnison,273865,retail
+06,2015,Grand,,medical
+06,2015,Huerfano,,retail
+06,2015,Gunnison,,medical
+06,2015,Jefferson,2584940,retail
+06,2015,Jefferson,1833049,medical
+06,2015,Lake,,retail
+06,2015,La Plata,425100,medical
+06,2015,La Plata,1283234,retail
+06,2015,Larimer,1219011,medical
+06,2015,Larimer,2321397,retail
+06,2015,Las Animas,,medical
+06,2015,Las Animas,714276,retail
+06,2015,Mesa,,medical
+06,2015,Mesa,,retail
+06,2015,Moffat,,medical
+06,2015,Montezuma,463559,retail
+06,2015,Montezuma,127877,medical
+06,2015,Morgan,,retail
+06,2015,Montrose,,medical
+06,2015,Ouray,,retail
+06,2015,Morgan,,medical
+06,2015,Park,191938,retail
+06,2015,Ouray,,medical
+06,2015,Pitkin,570064,retail
+06,2015,Park,,medical
+06,2015,Pueblo,1517777,retail
+06,2015,Pitkin,77058,medical
+06,2015,Routt,485969,retail
+06,2015,Pueblo,569375,medical
+06,2015,Saguache,,retail
+06,2015,Routt,159915,medical
+06,2015,San Juan,,retail
+06,2015,San Miguel,51852,medical
+06,2015,San Miguel,315531,retail
+06,2015,Sedgwick,,medical
+06,2015,Sedgwick,,retail
+06,2015,Summit,215753,medical
+06,2015,Summit,925580,retail
+06,2015,Teller,,medical
+06,2015,Weld,1693656,retail
+06,2015,Weld,287920,medical
+06,2015,Sum of NR Counties,5709761,retail
+06,2015,Sum of NR Counties,672330,medical

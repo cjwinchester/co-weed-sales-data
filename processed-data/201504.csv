@@ -1,0 +1,71 @@
+month,year,county,amount,sales_type
+04,2015,Adams,474341,medical
+04,2015,Adams,1611106,retail
+04,2015,Alamosa,,medical
+04,2015,Arapahoe,3257101,retail
+04,2015,Arapahoe,1559596,medical
+04,2015,Archuleta,,retail
+04,2015,Archuleta,,medical
+04,2015,Boulder,3973545,retail
+04,2015,Boulder,2559060,medical
+04,2015,Chaffee,250729,retail
+04,2015,Chaffee,,medical
+04,2015,Clear Creek,365896,retail
+04,2015,Clear Creek,76243,medical
+04,2015,Costilla,,retail
+04,2015,Costilla,,medical
+04,2015,Denver,18946519,retail
+04,2015,Denver,14953494,medical
+04,2015,Eagle,516095,retail
+04,2015,Eagle,287781,medical
+04,2015,El Paso,,retail
+04,2015,El Paso,6540175,medical
+04,2015,Garfield,644631,retail
+04,2015,Fremont,198045,medical
+04,2015,Gilpin,130946,retail
+04,2015,Garfield,381432,medical
+04,2015,Grand,,retail
+04,2015,Gilpin,,medical
+04,2015,Gunnison,160176,retail
+04,2015,Grand,,medical
+04,2015,Jefferson,2429996,retail
+04,2015,Gunnison,,medical
+04,2015,Lake,,retail
+04,2015,Jefferson,1931784,medical
+04,2015,La Plata,930516,retail
+04,2015,La Plata,493486,medical
+04,2015,Larimer,2045132,retail
+04,2015,Larimer,1277080,medical
+04,2015,Las Animas,471514,retail
+04,2015,Las Animas,,medical
+04,2015,Mesa,,retail
+04,2015,Mesa,,medical
+04,2015,Montezuma,313150,retail
+04,2015,Moffat,,medical
+04,2015,Morgan,,retail
+04,2015,Montezuma,124006,medical
+04,2015,Ouray,,retail
+04,2015,Montrose,,medical
+04,2015,Park,121375,retail
+04,2015,Morgan,,medical
+04,2015,Pitkin,426689,retail
+04,2015,Ouray,,medical
+04,2015,Pueblo,1318252,retail
+04,2015,Park,,medical
+04,2015,Routt,433152,retail
+04,2015,Pitkin,65486,medical
+04,2015,Saguache,,retail
+04,2015,Pueblo,389146,medical
+04,2015,San Juan,,retail
+04,2015,Routt,193801,medical
+04,2015,San Miguel,150531,retail
+04,2015,San Miguel,38531,medical
+04,2015,Sedgwick,,retail
+04,2015,Sedgwick,,medical
+04,2015,Summit,953219,retail
+04,2015,Summit,305570,medical
+04,2015,Weld,1521411,retail
+04,2015,Teller,,medical
+04,2015,Sum of NR Counties,2861263,retail
+04,2015,Weld,350491,medical
+04,2015,Sum of NR Counties,678969,medical
