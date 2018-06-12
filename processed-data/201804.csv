@@ -1,0 +1,69 @@
+month,year,county,amount,sales_type
+04,2018,Adams,417502,medical
+04,2018,Adams,6868698,retail
+04,2018,Alamosa,,medical
+04,2018,Arapahoe,9954701,retail
+04,2018,Arapahoe,741609,medical
+04,2018,Archuleta,502525,retail
+04,2018,Archuleta,,medical
+04,2018,Boulder,6957538,retail
+04,2018,Boulder,1601589,medical
+04,2018,Chaffee,393528,retail
+04,2018,Chaffee,,medical
+04,2018,Clear Creek,490554,retail
+04,2018,Clear Creek,,medical
+04,2018,Conejos,435677,retail
+04,2018,Denver,11689420,medical
+04,2018,Costilla,292932,retail
+04,2018,Eagle,97151,medical
+04,2018,Denver,33791852,retail
+04,2018,El Paso,7826668,medical
+04,2018,Eagle,1144193,retail
+04,2018,Fremont,141438,medical
+04,2018,El Paso,,retail
+04,2018,Garfield,252013,medical
+04,2018,Garfield,1503426,retail
+04,2018,Gilpin,,medical
+04,2018,Gilpin,212366,retail
+04,2018,Grand,,medical
+04,2018,Grand,343222,retail
+04,2018,Jefferson,1084394,medical
+04,2018,Gunnison,437758,retail
+04,2018,La Plata,228755,medical
+04,2018,Huerfano,,retail
+04,2018,Larimer,1108635,medical
+04,2018,Jefferson,4142771,retail
+04,2018,Las Animas,34180,medical
+04,2018,Lake,197779,retail
+04,2018,Mesa,,medical
+04,2018,La Plata,1863227,retail
+04,2018,Moffat,,medical
+04,2018,Larimer,5632150,retail
+04,2018,Montezuma,45539,medical
+04,2018,Las Animas,3934794,retail
+04,2018,Montrose,,medical
+04,2018,Mesa,1482947,retail
+04,2018,Morgan,,medical
+04,2018,Moffat,,retail
+04,2018,Otero,,medical
+04,2018,Montezuma,1905829,retail
+04,2018,Ouray,,medical
+04,2018,Morgan,,retail
+04,2018,Park,,medical
+04,2018,Ouray,,retail
+04,2018,Pitkin,54543,medical
+04,2018,Park,325805,retail
+04,2018,Pueblo,478009,medical
+04,2018,Pitkin,699425,retail
+04,2018,Routt,157073,medical
+04,2018,Pueblo,4436171,retail
+04,2018,San Miguel,,medical
+04,2018,Routt,790286,retail
+04,2018,Sedgwick,,medical
+04,2018,Saguache,137104,retail
+04,2018,Summit,113189,medical
+04,2018,San Juan,,retail
+04,2018,Weld,375487,medical
+04,2018,San Miguel,219836,retail
+04,2018,Sum of NR Counties,571880,medical
+04,2018,Sedgwick,,retail
