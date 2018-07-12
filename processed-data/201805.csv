@@ -1,0 +1,69 @@
+month,year,county,amount,sales_type
+05,2018,Adams,390116,medical
+05,2018,Adams,6884789,retail
+05,2018,Alamosa,,medical
+05,2018,Arapahoe,9846235,retail
+05,2018,Arapahoe,842104,medical
+05,2018,Archuleta,633849,retail
+05,2018,Archuleta,,medical
+05,2018,Boulder,7305495,retail
+05,2018,Boulder,1540156,medical
+05,2018,Chaffee,457767,retail
+05,2018,Chaffee,,medical
+05,2018,Clear Creek,518925,retail
+05,2018,Clear Creek,28054,medical
+05,2018,Conejos,495930,retail
+05,2018,Denver,11380605,medical
+05,2018,Costilla,322017,retail
+05,2018,Eagle,96713,medical
+05,2018,Denver,31592911,retail
+05,2018,El Paso,7332608,medical
+05,2018,Eagle,968533,retail
+05,2018,Fremont,147909,medical
+05,2018,El Paso,,retail
+05,2018,Garfield,252772,medical
+05,2018,Garfield,1577479,retail
+05,2018,Gilpin,,medical
+05,2018,Gilpin,219588,retail
+05,2018,Grand,,medical
+05,2018,Grand,309809,retail
+05,2018,Jefferson,1262338,medical
+05,2018,Gunnison,487921,retail
+05,2018,La Plata,257014,medical
+05,2018,Huerfano,,retail
+05,2018,Larimer,984003,medical
+05,2018,Jefferson,4153426,retail
+05,2018,Las Animas,44907,medical
+05,2018,Lake,,retail
+05,2018,Mesa,,medical
+05,2018,La Plata,2086680,retail
+05,2018,Moffat,,medical
+05,2018,Larimer,5891148,retail
+05,2018,Montezuma,47400,medical
+05,2018,Las Animas,4082306,retail
+05,2018,Montrose,,medical
+05,2018,Mesa,1605904,retail
+05,2018,Morgan,,medical
+05,2018,Moffat,,retail
+05,2018,Otero,,medical
+05,2018,Montezuma,1967881,retail
+05,2018,Ouray,,medical
+05,2018,Morgan,1000228,retail
+05,2018,Park,,medical
+05,2018,Ouray,592357,retail
+05,2018,Pitkin,46482,medical
+05,2018,Park,357535,retail
+05,2018,Pueblo,436538,medical
+05,2018,Pitkin,561866,retail
+05,2018,Routt,152758,medical
+05,2018,Pueblo,4619173,retail
+05,2018,San Miguel,,medical
+05,2018,Routt,717802,retail
+05,2018,Sedgwick,,medical
+05,2018,Saguache,151704,retail
+05,2018,Summit,103122,medical
+05,2018,San Juan,,retail
+05,2018,Weld,331438,medical
+05,2018,San Miguel,235398,retail
+05,2018,Sum of NR Counties,548739,medical
+05,2018,Sedgwick,,retail
