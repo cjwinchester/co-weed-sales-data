@@ -3548,6 +3548,74 @@ month,year,county,amount,sales_type
 8,2016,Weld,2444651.0,retail
 8,2016,Sum of NR Counties,672393.0,medical
 8,2016,Sum of NR Counties,5946811.0,retail
+6,2018,Adams,355054.0,medical
+6,2018,Adams,7071943.0,retail
+6,2018,Alamosa,,medical
+6,2018,Arapahoe,10003372.0,retail
+6,2018,Arapahoe,769443.0,medical
+6,2018,Archuleta,834469.0,retail
+6,2018,Archuleta,,medical
+6,2018,Boulder,7752657.0,retail
+6,2018,Boulder,1430060.0,medical
+6,2018,Chaffee,578419.0,retail
+6,2018,Chaffee,,medical
+6,2018,Clear Creek,633162.0,retail
+6,2018,Clear Creek,22895.0,medical
+6,2018,Conejos,558542.0,retail
+6,2018,Denver,11375581.0,medical
+6,2018,Costilla,408573.0,retail
+6,2018,Eagle,99986.0,medical
+6,2018,Denver,32336676.0,retail
+6,2018,El Paso,8272114.0,medical
+6,2018,Eagle,1273668.0,retail
+6,2018,Fremont,153170.0,medical
+6,2018,El Paso,,retail
+6,2018,Garfield,253141.0,medical
+6,2018,Garfield,1711546.0,retail
+6,2018,Gilpin,,medical
+6,2018,Gilpin,240622.0,retail
+6,2018,Grand,,medical
+6,2018,Grand,471237.0,retail
+6,2018,Jefferson,1194256.0,medical
+6,2018,Gunnison,697112.0,retail
+6,2018,La Plata,256422.0,medical
+6,2018,Huerfano,,retail
+6,2018,Larimer,965461.0,medical
+6,2018,Jefferson,4376615.0,retail
+6,2018,Las Animas,39736.0,medical
+6,2018,Lake,,retail
+6,2018,Mesa,,medical
+6,2018,La Plata,2045737.0,retail
+6,2018,Moffat,,medical
+6,2018,Larimer,6087233.0,retail
+6,2018,Montezuma,59954.0,medical
+6,2018,Las Animas,4436437.0,retail
+6,2018,Montrose,,medical
+6,2018,Mesa,1654095.0,retail
+6,2018,Morgan,,medical
+6,2018,Moffat,,retail
+6,2018,Otero,,medical
+6,2018,Montezuma,2023138.0,retail
+6,2018,Ouray,,medical
+6,2018,Morgan,1067039.0,retail
+6,2018,Park,,medical
+6,2018,Ouray,666243.0,retail
+6,2018,Pitkin,52088.0,medical
+6,2018,Park,409810.0,retail
+6,2018,Pueblo,692724.0,medical
+6,2018,Pitkin,919527.0,retail
+6,2018,Routt,126739.0,medical
+6,2018,Pueblo,4836544.0,retail
+6,2018,San Miguel,,medical
+6,2018,Routt,899556.0,retail
+6,2018,Sedgwick,,medical
+6,2018,Saguache,173495.0,retail
+6,2018,Summit,84313.0,medical
+6,2018,San Juan,,retail
+6,2018,Weld,331725.0,medical
+6,2018,San Miguel,453787.0,retail
+6,2018,Sum of NR Counties,562102.0,medical
+6,2018,Sedgwick,,retail
 9,2016,Adams,412289.0,medical
 9,2016,Adams,4668880.0,retail
 9,2016,Alamosa,,medical

@@ -1,0 +1,69 @@
+month,year,county,amount,sales_type
+06,2018,Adams,355054,medical
+06,2018,Adams,7071943,retail
+06,2018,Alamosa,,medical
+06,2018,Arapahoe,10003372,retail
+06,2018,Arapahoe,769443,medical
+06,2018,Archuleta,834469,retail
+06,2018,Archuleta,,medical
+06,2018,Boulder,7752657,retail
+06,2018,Boulder,1430060,medical
+06,2018,Chaffee,578419,retail
+06,2018,Chaffee,,medical
+06,2018,Clear Creek,633162,retail
+06,2018,Clear Creek,22895,medical
+06,2018,Conejos,558542,retail
+06,2018,Denver,11375581,medical
+06,2018,Costilla,408573,retail
+06,2018,Eagle,99986,medical
+06,2018,Denver,32336676,retail
+06,2018,El Paso,8272114,medical
+06,2018,Eagle,1273668,retail
+06,2018,Fremont,153170,medical
+06,2018,El Paso,,retail
+06,2018,Garfield,253141,medical
+06,2018,Garfield,1711546,retail
+06,2018,Gilpin,,medical
+06,2018,Gilpin,240622,retail
+06,2018,Grand,,medical
+06,2018,Grand,471237,retail
+06,2018,Jefferson,1194256,medical
+06,2018,Gunnison,697112,retail
+06,2018,La Plata,256422,medical
+06,2018,Huerfano,,retail
+06,2018,Larimer,965461,medical
+06,2018,Jefferson,4376615,retail
+06,2018,Las Animas,39736,medical
+06,2018,Lake,,retail
+06,2018,Mesa,,medical
+06,2018,La Plata,2045737,retail
+06,2018,Moffat,,medical
+06,2018,Larimer,6087233,retail
+06,2018,Montezuma,59954,medical
+06,2018,Las Animas,4436437,retail
+06,2018,Montrose,,medical
+06,2018,Mesa,1654095,retail
+06,2018,Morgan,,medical
+06,2018,Moffat,,retail
+06,2018,Otero,,medical
+06,2018,Montezuma,2023138,retail
+06,2018,Ouray,,medical
+06,2018,Morgan,1067039,retail
+06,2018,Park,,medical
+06,2018,Ouray,666243,retail
+06,2018,Pitkin,52088,medical
+06,2018,Park,409810,retail
+06,2018,Pueblo,692724,medical
+06,2018,Pitkin,919527,retail
+06,2018,Routt,126739,medical
+06,2018,Pueblo,4836544,retail
+06,2018,San Miguel,,medical
+06,2018,Routt,899556,retail
+06,2018,Sedgwick,,medical
+06,2018,Saguache,173495,retail
+06,2018,Summit,84313,medical
+06,2018,San Juan,,retail
+06,2018,Weld,331725,medical
+06,2018,San Miguel,453787,retail
+06,2018,Sum of NR Counties,562102,medical
+06,2018,Sedgwick,,retail
