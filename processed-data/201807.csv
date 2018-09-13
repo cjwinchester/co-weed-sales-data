@@ -1,0 +1,69 @@
+month,year,county,amount,sales_type
+07,2018,Adams,600899,medical
+07,2018,Adams,7412565,retail
+07,2018,Alamosa,,medical
+07,2018,Arapahoe,10500847,retail
+07,2018,Arapahoe,854281,medical
+07,2018,Archuleta,1015573,retail
+07,2018,Archuleta,,medical
+07,2018,Boulder,8764549,retail
+07,2018,Boulder,1466872,medical
+07,2018,Chaffee,699379,retail
+07,2018,Chaffee,,medical
+07,2018,Clear Creek,730165,retail
+07,2018,Clear Creek,23986,medical
+07,2018,Conejos,621884,retail
+07,2018,Denver,11859418,medical
+07,2018,Costilla,450314,retail
+07,2018,Eagle,91750,medical
+07,2018,Denver,34154291,retail
+07,2018,El Paso,7837080,medical
+07,2018,Eagle,1582803,retail
+07,2018,Fremont,145139,medical
+07,2018,El Paso,,retail
+07,2018,Garfield,218285,medical
+07,2018,Garfield,1917005,retail
+07,2018,Gilpin,,medical
+07,2018,Gilpin,266111,retail
+07,2018,Grand,,medical
+07,2018,Grand,629538,retail
+07,2018,Jefferson,1161582,medical
+07,2018,Gunnison,954926,retail
+07,2018,La Plata,238044,medical
+07,2018,Huerfano,,retail
+07,2018,Larimer,981720,medical
+07,2018,Jefferson,4575835,retail
+07,2018,Las Animas,31952,medical
+07,2018,Lake,318683,retail
+07,2018,Mesa,,medical
+07,2018,La Plata,2366479,retail
+07,2018,Moffat,,medical
+07,2018,Larimer,6570637,retail
+07,2018,Montezuma,92530,medical
+07,2018,Las Animas,4704196,retail
+07,2018,Montrose,,medical
+07,2018,Mesa,1674477,retail
+07,2018,Morgan,,medical
+07,2018,Moffat,,retail
+07,2018,Otero,,medical
+07,2018,Montezuma,2031292,retail
+07,2018,Ouray,,medical
+07,2018,Morgan,1115451,retail
+07,2018,Park,,medical
+07,2018,Ouray,751062,retail
+07,2018,Pitkin,47118,medical
+07,2018,Park,487238,retail
+07,2018,Pueblo,492063,medical
+07,2018,Pitkin,1357126,retail
+07,2018,Routt,136681,medical
+07,2018,Pueblo,5249580,retail
+07,2018,San Miguel,,medical
+07,2018,Routt,1082308,retail
+07,2018,Sedgwick,,medical
+07,2018,Saguache,191002,retail
+07,2018,Summit,91088,medical
+07,2018,San Juan,,retail
+07,2018,Weld,312813,medical
+07,2018,San Miguel,544147,retail
+07,2018,Sum of NR Counties,555712,medical
+07,2018,Sedgwick,,retail
