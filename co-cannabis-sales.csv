@@ -3347,6 +3347,68 @@ month,year,county,amount,sales_type
 1,2018,Summit,2841769.0,retail
 1,2018,Sum of NR Counties,544682.0,medical
 1,2018,Weld,2300531.0,retail
+10,2018,Adams,509170.0,medical
+10,2018,Adams,7365401.0,retail
+10,2018,Alamosa,,medical
+10,2018,Arapahoe,10245761.0,retail
+10,2018,Arapahoe,826764.0,medical
+10,2018,Archuleta,722415.0,retail
+10,2018,Boulder,1287700.0,medical
+10,2018,Boulder,7850413.0,retail
+10,2018,Chaffee,,medical
+10,2018,Chaffee,445329.0,retail
+10,2018,Clear Creek,21140.0,medical
+10,2018,Clear Creek,516655.0,retail
+10,2018,Denver,12720334.0,medical
+10,2018,Conejos,514891.0,retail
+10,2018,Eagle,86610.0,medical
+10,2018,Costilla,349525.0,retail
+10,2018,El Paso,7882342.0,medical
+10,2018,Crowley,,retail
+10,2018,Fremont,,medical
+10,2018,Denver,32338630.0,retail
+10,2018,Garfield,162367.0,medical
+10,2018,Eagle,1069220.0,retail
+10,2018,Grand,,medical
+10,2018,El Paso,,retail
+10,2018,Jefferson,1249935.0,medical
+10,2018,Garfield,1690316.0,retail
+10,2018,La Plata,,medical
+10,2018,Gilpin,194984.0,retail
+10,2018,Larimer,932833.0,medical
+10,2018,Grand,392970.0,retail
+10,2018,Las Animas,27666.0,medical
+10,2018,Gunnison,567511.0,retail
+10,2018,Mesa,,medical
+10,2018,Huerfano,,retail
+10,2018,Moffat,,medical
+10,2018,Jefferson,4153968.0,retail
+10,2018,Montezuma,44755.0,medical
+10,2018,Lake,218867.0,retail
+10,2018,Montrose,,medical
+10,2018,La Plata,2153231.0,retail
+10,2018,Morgan,,medical
+10,2018,Larimer,6622929.0,retail
+10,2018,Otero,,medical
+10,2018,Las Animas,4273377.0,retail
+10,2018,Park,,medical
+10,2018,Mesa,1647110.0,retail
+10,2018,Pitkin,33868.0,medical
+10,2018,Moffat,510016.0,retail
+10,2018,Pueblo,769549.0,medical
+10,2018,Montezuma,1896742.0,retail
+10,2018,Routt,132712.0,medical
+10,2018,Morgan,,retail
+10,2018,San Miguel,,medical
+10,2018,Otero,,retail
+10,2018,Sedgwick,,medical
+10,2018,Ouray,612355.0,retail
+10,2018,Summit,92669.0,medical
+10,2018,Park,368779.0,retail
+10,2018,Weld,334645.0,medical
+10,2018,Pitkin,694980.0,retail
+10,2018,Sum of NR Counties,804319.0,medical
+10,2018,Pueblo,5001654.0,retail
 4,2018,Adams,417502.0,medical
 4,2018,Adams,6868698.0,retail
 4,2018,Alamosa,,medical
