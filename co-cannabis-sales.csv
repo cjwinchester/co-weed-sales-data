@@ -3666,6 +3666,68 @@ month,year,county,amount,sales_type
 5,2018,San Miguel,235398.0,retail
 5,2018,Sum of NR Counties,548739.0,medical
 5,2018,Sedgwick,,retail
+11,2018,Adams,475793.0,medical
+11,2018,Adams,7404234.0,retail
+11,2018,Alamosa,,medical
+11,2018,Arapahoe,10251205.0,retail
+11,2018,Arapahoe,793814.0,medical
+11,2018,Archuleta,629695.0,retail
+11,2018,Boulder,1277657.0,medical
+11,2018,Boulder,7404306.0,retail
+11,2018,Chaffee,,medical
+11,2018,Chaffee,379794.0,retail
+11,2018,Clear Creek,23148.0,medical
+11,2018,Clear Creek,478979.0,retail
+11,2018,Denver,11829016.0,medical
+11,2018,Conejos,448685.0,retail
+11,2018,Eagle,84221.0,medical
+11,2018,Costilla,293351.0,retail
+11,2018,El Paso,7203476.0,medical
+11,2018,Denver,31470367.0,retail
+11,2018,Fremont,112642.0,medical
+11,2018,Eagle,1073888.0,retail
+11,2018,Garfield,118710.0,medical
+11,2018,El Paso,,retail
+11,2018,Grand,,medical
+11,2018,Garfield,1540424.0,retail
+11,2018,Jefferson,1305975.0,medical
+11,2018,Gilpin,171444.0,retail
+11,2018,La Plata,,medical
+11,2018,Grand,385453.0,retail
+11,2018,Larimer,894188.0,medical
+11,2018,Gunnison,459020.0,retail
+11,2018,Las Animas,23048.0,medical
+11,2018,Huerfano,,retail
+11,2018,Mesa,,medical
+11,2018,Jefferson,4135774.0,retail
+11,2018,Moffat,,medical
+11,2018,Lake,193034.0,retail
+11,2018,Montezuma,45252.0,medical
+11,2018,La Plata,1916314.0,retail
+11,2018,Montrose,,medical
+11,2018,Larimer,6471039.0,retail
+11,2018,Morgan,,medical
+11,2018,Las Animas,4067789.0,retail
+11,2018,Otero,,medical
+11,2018,Mesa,1553111.0,retail
+11,2018,Park,,medical
+11,2018,Moffat,500264.0,retail
+11,2018,Pitkin,33385.0,medical
+11,2018,Montezuma,1751540.0,retail
+11,2018,Pueblo,602548.0,medical
+11,2018,Morgan,,retail
+11,2018,Routt,125491.0,medical
+11,2018,Otero,,retail
+11,2018,San Miguel,,medical
+11,2018,Ouray,549988.0,retail
+11,2018,Sedgwick,,medical
+11,2018,Park,324363.0,retail
+11,2018,Summit,90339.0,medical
+11,2018,Pitkin,599002.0,retail
+11,2018,Weld,350896.0,medical
+11,2018,Pueblo,4868317.0,retail
+11,2018,Sum of NR Counties,673208.0,medical
+11,2018,Routt,758528.0,retail
 8,2016,Adams,405729.0,medical
 8,2016,Adams,4444010.0,retail
 8,2016,Alamosa,,medical
