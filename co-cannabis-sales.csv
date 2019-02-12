@@ -3868,6 +3868,68 @@ month,year,county,amount,sales_type
 7,2018,San Miguel,544147.0,retail
 7,2018,Sum of NR Counties,555712.0,medical
 7,2018,Sedgwick,,retail
+12,2018,Adams,537919.0,medical
+12,2018,Adams,7333549.0,retail
+12,2018,Alamosa,,medical
+12,2018,Arapahoe,10731040.0,retail
+12,2018,Arapahoe,840436.0,medical
+12,2018,Archuleta,785073.0,retail
+12,2018,Boulder,2077359.0,medical
+12,2018,Boulder,7757965.0,retail
+12,2018,Chaffee,,medical
+12,2018,Chaffee,,retail
+12,2018,Clear Creek,,medical
+12,2018,Clear Creek,614305.0,retail
+12,2018,Denver,13218281.0,medical
+12,2018,Conejos,442161.0,retail
+12,2018,Eagle,98078.0,medical
+12,2018,Costilla,304403.0,retail
+12,2018,El Paso,7377264.0,medical
+12,2018,Denver,32997057.0,retail
+12,2018,Fremont,,medical
+12,2018,Eagle,1755283.0,retail
+12,2018,Garfield,149089.0,medical
+12,2018,El Paso,,retail
+12,2018,Grand,,medical
+12,2018,Garfield,1589975.0,retail
+12,2018,Jefferson,1149072.0,medical
+12,2018,Gilpin,171994.0,retail
+12,2018,La Plata,,medical
+12,2018,Grand,594083.0,retail
+12,2018,Larimer,917137.0,medical
+12,2018,Gunnison,629546.0,retail
+12,2018,Las Animas,24868.0,medical
+12,2018,Huerfano,,retail
+12,2018,Mesa,,medical
+12,2018,Jefferson,4456550.0,retail
+12,2018,Moffat,,medical
+12,2018,Lake,228276.0,retail
+12,2018,Montezuma,51687.0,medical
+12,2018,La Plata,2161229.0,retail
+12,2018,Montrose,,medical
+12,2018,Larimer,6853279.0,retail
+12,2018,Morgan,,medical
+12,2018,Las Animas,3919079.0,retail
+12,2018,Otero,,medical
+12,2018,Mesa,1562193.0,retail
+12,2018,Park,,medical
+12,2018,Moffat,557631.0,retail
+12,2018,Pitkin,50018.0,medical
+12,2018,Montezuma,1670767.0,retail
+12,2018,Pueblo,655858.0,medical
+12,2018,Morgan,,retail
+12,2018,Routt,131134.0,medical
+12,2018,Otero,,retail
+12,2018,San Miguel,,medical
+12,2018,Ouray,,retail
+12,2018,Sedgwick,,medical
+12,2018,Park,375986.0,retail
+12,2018,Summit,97292.0,medical
+12,2018,Pitkin,1254451.0,retail
+12,2018,Weld,353590.0,medical
+12,2018,Pueblo,5240434.0,retail
+12,2018,Sum of NR Counties,1517672.0,medical
+12,2018,Routt,1139807.0,retail
 6,2018,Adams,355054.0,medical
 6,2018,Adams,7071943.0,retail
 6,2018,Alamosa,,medical
