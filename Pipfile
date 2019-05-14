@@ -1,19 +1,15 @@
 [[source]]
-
 url = "https://pypi.python.org/simple"
 verify_ssl = true
 name = "pypi"
 
-
 [packages]
-
 openpyxl = "*"
 pandas = "*"
 jupyter = "*"
 requests = "*"
 "bs4" = "*"
 geopandas = "*"
-
+matplotlib = "*"
 
 [dev-packages]
-
