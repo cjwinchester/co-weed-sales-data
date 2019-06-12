@@ -11,5 +11,6 @@ requests = "*"
 "bs4" = "*"
 geopandas = "*"
 matplotlib = "*"
+descartes = "*"
 
 [dev-packages]
