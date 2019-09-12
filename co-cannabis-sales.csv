@@ -3113,6 +3113,68 @@ month,year,county,amount,sales_type
 8,2017,Weld,315417.0,medical
 8,2017,Sum of NR Counties,4418186.0,retail
 8,2017,Sum of NR Counties,820062.0,medical
+7,2019,Adams,713244.0,medical
+7,2019,Adams,9889690.0,retail
+7,2019,Alamosa,,medical
+7,2019,Arapahoe,13602987.0,retail
+7,2019,Arapahoe,861782.0,medical
+7,2019,Archuleta,1206281.0,retail
+7,2019,Boulder,1160910.0,medical
+7,2019,Boulder,10013202.0,retail
+7,2019,Chaffee,,medical
+7,2019,Chaffee,779946.0,retail
+7,2019,Clear Creek,,medical
+7,2019,Clear Creek,844933.0,retail
+7,2019,Denver,13134715.0,medical
+7,2019,Conejos,,retail
+7,2019,Eagle,104621.0,medical
+7,2019,Costilla,521095.0,retail
+7,2019,El Paso,9792834.0,medical
+7,2019,Denver,41013102.0,retail
+7,2019,Fremont,165281.0,medical
+7,2019,Eagle,1713739.0,retail
+7,2019,Garfield,110091.0,medical
+7,2019,El Paso,,retail
+7,2019,Grand,,medical
+7,2019,Garfield,2346451.0,retail
+7,2019,Jefferson,1405637.0,medical
+7,2019,Gilpin,,retail
+7,2019,La Plata,,medical
+7,2019,Grand,764812.0,retail
+7,2019,Larimer,788774.0,medical
+7,2019,Gunnison,1029159.0,retail
+7,2019,Las Animas,39874.0,medical
+7,2019,Huerfano,338563.0,retail
+7,2019,Mesa,,medical
+7,2019,Jefferson,5198994.0,retail
+7,2019,Moffat,,medical
+7,2019,Lake,368841.0,retail
+7,2019,Montezuma,39297.0,medical
+7,2019,La Plata,2844294.0,retail
+7,2019,Montrose,,medical
+7,2019,Larimer,8367530.0,retail
+7,2019,Morgan,,medical
+7,2019,Las Animas,5983076.0,retail
+7,2019,Otero,,medical
+7,2019,Mesa,1986339.0,retail
+7,2019,Park,,medical
+7,2019,Moffat,845115.0,retail
+7,2019,Pitkin,,medical
+7,2019,Montezuma,2268925.0,retail
+7,2019,Pueblo,887221.0,medical
+7,2019,Montrose,,retail
+7,2019,Routt,138343.0,medical
+7,2019,Morgan,1661346.0,retail
+7,2019,San Miguel,,medical
+7,2019,Otero,,retail
+7,2019,Sedgwick,,medical
+7,2019,Ouray,915949.0,retail
+7,2019,Summit,,medical
+7,2019,Park,545077.0,retail
+7,2019,Weld,315974.0,medical
+7,2019,Pitkin,1424271.0,retail
+7,2019,Sum of NR Counties,731373.0,medical
+7,2019,Pueblo,7718630.0,retail
 6,2019,Adams,698316.0,medical
 6,2019,Adams,8822616.0,retail
 6,2019,Alamosa,,medical
