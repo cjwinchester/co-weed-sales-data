@@ -1699,6 +1699,70 @@ month,year,county,amount,sales_type
 8,2019,Pitkin,1444148.0,retail
 8,2019,Sum of NR Counties,948534.0,medical
 8,2019,Pueblo,8022564.0,retail
+9,2019,Adams,731170.0,medical
+9,2019,Adams,9752924.0,retail
+9,2019,Alamosa,,medical
+9,2019,Arapahoe,12830887.0,retail
+9,2019,Arapahoe,866332.0,medical
+9,2019,Archuleta,1014873.0,retail
+9,2019,Boulder,1165078.0,medical
+9,2019,Boulder,9284700.0,retail
+9,2019,Chaffee,,medical
+9,2019,Chaffee,,retail
+9,2019,Clear Creek,11791.0,medical
+9,2019,Clear Creek,718321.0,retail
+9,2019,Delta,,medical
+9,2019,Conejos,,retail
+9,2019,Denver,12356485.0,medical
+9,2019,Costilla,481640.0,retail
+9,2019,Eagle,96109.0,medical
+9,2019,Crowley,,retail
+9,2019,El Paso,8842307.0,medical
+9,2019,Denver,37916128.0,retail
+9,2019,Fremont,168380.0,medical
+9,2019,Eagle,1393391.0,retail
+9,2019,Garfield,105595.0,medical
+9,2019,El Paso,,retail
+9,2019,Grand,,medical
+9,2019,Garfield,2248930.0,retail
+9,2019,Jefferson,1314993.0,medical
+9,2019,Gilpin,237204.0,retail
+9,2019,La Plata,,medical
+9,2019,Grand,615627.0,retail
+9,2019,Larimer,797466.0,medical
+9,2019,Gunnison,856666.0,retail
+9,2019,Las Animas,26096.0,medical
+9,2019,Huerfano,296572.0,retail
+9,2019,Mesa,,medical
+9,2019,Jefferson,4895351.0,retail
+9,2019,Moffat,,medical
+9,2019,Lake,339220.0,retail
+9,2019,Montezuma,,medical
+9,2019,La Plata,2703739.0,retail
+9,2019,Montrose,,medical
+9,2019,Larimer,8330812.0,retail
+9,2019,Morgan,,medical
+9,2019,Las Animas,5283914.0,retail
+9,2019,Otero,,medical
+9,2019,Mesa,2096230.0,retail
+9,2019,Park,,medical
+9,2019,Moffat,941147.0,retail
+9,2019,Pitkin,,medical
+9,2019,Montezuma,2236163.0,retail
+9,2019,Pueblo,833119.0,medical
+9,2019,Montrose,,retail
+9,2019,Routt,153657.0,medical
+9,2019,Morgan,1814560.0,retail
+9,2019,San Miguel,,medical
+9,2019,Otero,,retail
+9,2019,Sedgwick,,medical
+9,2019,Ouray,969806.0,retail
+9,2019,Summit,78799.0,medical
+9,2019,Park,490736.0,retail
+9,2019,Weld,319547.0,medical
+9,2019,Pitkin,1080615.0,retail
+9,2019,Sum of NR Counties,734426.0,medical
+9,2019,Pueblo,7075867.0,retail
 6,2017,Adams,1091425.0,medical
 6,2017,Adams,5137782.0,retail
 6,2017,Alamosa,,medical
