@@ -3695,6 +3695,70 @@ month,year,county,amount,sales_type
 5,2019,Pueblo,6412447.0,retail
 5,2019,Sum of NR Counties,823838.0,medical
 5,2019,Routt,771517.0,retail
+11,2019,Adams,685651.0,medical
+11,2019,Adams,9451567.0,retail
+11,2019,Alamosa,,medical
+11,2019,Arapahoe,12396622.0,retail
+11,2019,Arapahoe,811741.0,medical
+11,2019,Archuleta,699377.0,retail
+11,2019,Boulder,1357101.0,medical
+11,2019,Bent,,retail
+11,2019,Chaffee,,medical
+11,2019,Boulder,8483233.0,retail
+11,2019,Clear Creek,,medical
+11,2019,Chaffee,,retail
+11,2019,Delta,,medical
+11,2019,Clear Creek,535899.0,retail
+11,2019,Denver,11411092.0,medical
+11,2019,Conejos,,retail
+11,2019,Eagle,98948.0,medical
+11,2019,Costilla,337001.0,retail
+11,2019,El Paso,7950598.0,medical
+11,2019,Crowley,,retail
+11,2019,Fremont,,medical
+11,2019,Denver,34648813.0,retail
+11,2019,Garfield,110705.0,medical
+11,2019,Eagle,1180699.0,retail
+11,2019,Grand,,medical
+11,2019,El Paso,,retail
+11,2019,Jefferson,1353642.0,medical
+11,2019,Garfield,1860390.0,retail
+11,2019,La Plata,,medical
+11,2019,Gilpin,250692.0,retail
+11,2019,Larimer,782261.0,medical
+11,2019,Grand,444042.0,retail
+11,2019,Las Animas,27877.0,medical
+11,2019,Gunnison,535869.0,retail
+11,2019,Mesa,,medical
+11,2019,Huerfano,182778.0,retail
+11,2019,Moffat,,medical
+11,2019,Jefferson,4515281.0,retail
+11,2019,Montezuma,,medical
+11,2019,Lake,224151.0,retail
+11,2019,Montrose,,medical
+11,2019,La Plata,2259703.0,retail
+11,2019,Morgan,,medical
+11,2019,Larimer,8013976.0,retail
+11,2019,Otero,,medical
+11,2019,Las Animas,4384901.0,retail
+11,2019,Park,,medical
+11,2019,Mesa,1954432.0,retail
+11,2019,Pitkin,,medical
+11,2019,Moffat,927151.0,retail
+11,2019,Pueblo,775300.0,medical
+11,2019,Montezuma,1918432.0,retail
+11,2019,Routt,155209.0,medical
+11,2019,Montrose,,retail
+11,2019,San Miguel,,medical
+11,2019,Morgan,1614277.0,retail
+11,2019,Sedgwick,,medical
+11,2019,Otero,,retail
+11,2019,Summit,62495.0,medical
+11,2019,Ouray,,retail
+11,2019,Weld,314633.0,medical
+11,2019,Park,375600.0,retail
+11,2019,Sum of NR Counties,800478.0,medical
+11,2019,Pitkin,616732.0,retail
 8,2015,Adams,414843.0,medical
 8,2015,Adams,2007490.0,retail
 8,2015,Alamosa,,medical
