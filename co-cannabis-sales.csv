@@ -3823,6 +3823,70 @@ month,year,county,amount,sales_type
 11,2019,Park,375600.0,retail
 11,2019,Sum of NR Counties,800478.0,medical
 11,2019,Pitkin,616732.0,retail
+1,2020,Adams,633417.0,medical
+1,2020,Adams,9161056.0,retail
+1,2020,Alamosa,,medical
+1,2020,Arapahoe,11255656.0,retail
+1,2020,Arapahoe,797863.0,medical
+1,2020,Archuleta,842953.0,retail
+1,2020,Boulder,1154221.0,medical
+1,2020,Bent,,retail
+1,2020,Chaffee,,medical
+1,2020,Boulder,8048704.0,retail
+1,2020,Clear Creek,,medical
+1,2020,Chaffee,502604.0,retail
+1,2020,Delta,,medical
+1,2020,Clear Creek,688968.0,retail
+1,2020,Denver,12561679.0,medical
+1,2020,Conejos,,retail
+1,2020,Eagle,112180.0,medical
+1,2020,Costilla,334578.0,retail
+1,2020,El Paso,8446189.0,medical
+1,2020,Crowley,,retail
+1,2020,Fremont,,medical
+1,2020,Denver,32725429.0,retail
+1,2020,Garfield,99505.0,medical
+1,2020,Eagle,1964595.0,retail
+1,2020,Grand,,medical
+1,2020,El Paso,,retail
+1,2020,Jefferson,1517024.0,medical
+1,2020,Garfield,1779794.0,retail
+1,2020,La Plata,,medical
+1,2020,Gilpin,240660.0,retail
+1,2020,Larimer,763518.0,medical
+1,2020,Grand,626116.0,retail
+1,2020,Las Animas,26742.0,medical
+1,2020,Gunnison,641199.0,retail
+1,2020,Mesa,,medical
+1,2020,Huerfano,162039.0,retail
+1,2020,Moffat,,medical
+1,2020,Jefferson,4389257.0,retail
+1,2020,Montezuma,,medical
+1,2020,Lake,,retail
+1,2020,Montrose,,medical
+1,2020,La Plata,2345450.0,retail
+1,2020,Morgan,,medical
+1,2020,Larimer,7671046.0,retail
+1,2020,Otero,,medical
+1,2020,Las Animas,3806589.0,retail
+1,2020,Park,,medical
+1,2020,Mesa,1395679.0,retail
+1,2020,Pitkin,,medical
+1,2020,Moffat,,retail
+1,2020,Pueblo,764458.0,medical
+1,2020,Montezuma,1741219.0,retail
+1,2020,Routt,162666.0,medical
+1,2020,Montrose,,retail
+1,2020,San Miguel,,medical
+1,2020,Morgan,1501900.0,retail
+1,2020,Sedgwick,,medical
+1,2020,Otero,,retail
+1,2020,Summit,,medical
+1,2020,Ouray,696495.0,retail
+1,2020,Weld,288641.0,medical
+1,2020,Park,388731.0,retail
+1,2020,Sum of NR Counties,891003.0,medical
+1,2020,Pitkin,1501527.0,retail
 8,2015,Adams,414843.0,medical
 8,2015,Adams,2007490.0,retail
 8,2015,Alamosa,,medical
