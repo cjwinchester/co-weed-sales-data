@@ -3501,6 +3501,70 @@ month,year,county,amount,sales_type
 9,2017,Weld,2723950.0,retail
 9,2017,Sum of NR Counties,788590.0,medical
 9,2017,Sum of NR Counties,3290855.0,retail
+2,2020,Adams,583318.0,medical
+2,2020,Adams,9143186.0,retail
+2,2020,Alamosa,,medical
+2,2020,Arapahoe,11501463.0,retail
+2,2020,Arapahoe,781926.0,medical
+2,2020,Archuleta,806623.0,retail
+2,2020,Boulder,1085220.0,medical
+2,2020,Bent,,retail
+2,2020,Chaffee,,medical
+2,2020,Boulder,7920664.0,retail
+2,2020,Clear Creek,,medical
+2,2020,Chaffee,449651.0,retail
+2,2020,Delta,,medical
+2,2020,Clear Creek,648544.0,retail
+2,2020,Denver,12235151.0,medical
+2,2020,Conejos,,retail
+2,2020,Eagle,109702.0,medical
+2,2020,Costilla,348795.0,retail
+2,2020,El Paso,8397819.0,medical
+2,2020,Crowley,,retail
+2,2020,Fremont,,medical
+2,2020,Denver,32649234.0,retail
+2,2020,Garfield,89443.0,medical
+2,2020,Eagle,1959791.0,retail
+2,2020,Grand,,medical
+2,2020,El Paso,,retail
+2,2020,Jefferson,1401894.0,medical
+2,2020,Garfield,1792134.0,retail
+2,2020,La Plata,,medical
+2,2020,Gilpin,231904.0,retail
+2,2020,Larimer,740329.0,medical
+2,2020,Grand,612478.0,retail
+2,2020,Las Animas,25486.0,medical
+2,2020,Gunnison,625097.0,retail
+2,2020,Mesa,,medical
+2,2020,Huerfano,157235.0,retail
+2,2020,Moffat,,medical
+2,2020,Jefferson,4304697.0,retail
+2,2020,Montezuma,,medical
+2,2020,Lake,,retail
+2,2020,Montrose,,medical
+2,2020,La Plata,2303948.0,retail
+2,2020,Morgan,,medical
+2,2020,Larimer,7649702.0,retail
+2,2020,Otero,,medical
+2,2020,Las Animas,3989609.0,retail
+2,2020,Park,,medical
+2,2020,Mesa,1883643.0,retail
+2,2020,Pitkin,,medical
+2,2020,Moffat,,retail
+2,2020,Pueblo,920463.0,medical
+2,2020,Montezuma,1884355.0,retail
+2,2020,Routt,166099.0,medical
+2,2020,Montrose,,retail
+2,2020,San Miguel,,medical
+2,2020,Morgan,1548519.0,retail
+2,2020,Sedgwick,,medical
+2,2020,Otero,,retail
+2,2020,Summit,,medical
+2,2020,Ouray,,retail
+2,2020,Weld,289779.0,medical
+2,2020,Park,364693.0,retail
+2,2020,Sum of NR Counties,863832.0,medical
+2,2020,Pitkin,1406907.0,retail
 9,2015,Adams,456102.0,medical
 9,2015,Adams,2066128.0,retail
 9,2015,Alamosa,,medical
