@@ -3168,6 +3168,70 @@ month,year,county,amount,sales_type
 3,2019,Saguache,170926.0,retail
 3,2019,Sum of NR Counties,792987.0,medical
 3,2019,San Juan,,retail
+3,2020,Adams,786129.0,medical
+3,2020,Adams,10989274.0,retail
+3,2020,Alamosa,,medical
+3,2020,Arapahoe,13195567.0,retail
+3,2020,Arapahoe,1039380.0,medical
+3,2020,Archuleta,916578.0,retail
+3,2020,Boulder,1208727.0,medical
+3,2020,Bent,,retail
+3,2020,Chaffee,,medical
+3,2020,Boulder,9141582.0,retail
+3,2020,Clear Creek,,medical
+3,2020,Chaffee,561435.0,retail
+3,2020,Denver,13752429.0,medical
+3,2020,Clear Creek,678872.0,retail
+3,2020,Eagle,,medical
+3,2020,Conejos,,retail
+3,2020,El Paso,10236898.0,medical
+3,2020,Costilla,437566.0,retail
+3,2020,Fremont,,medical
+3,2020,Crowley,,retail
+3,2020,Garfield,,medical
+3,2020,Denver,37144790.0,retail
+3,2020,Grand,,medical
+3,2020,Eagle,1886687.0,retail
+3,2020,Jefferson,1644343.0,medical
+3,2020,El Paso,,retail
+3,2020,La Plata,,medical
+3,2020,Garfield,2241940.0,retail
+3,2020,Larimer,937349.0,medical
+3,2020,Gilpin,246896.0,retail
+3,2020,Las Animas,,medical
+3,2020,Grand,661002.0,retail
+3,2020,Mesa,,medical
+3,2020,Gunnison,667205.0,retail
+3,2020,Moffat,,medical
+3,2020,Huerfano,224744.0,retail
+3,2020,Montezuma,,medical
+3,2020,Jefferson,5200066.0,retail
+3,2020,Montrose,,medical
+3,2020,Lake,295013.0,retail
+3,2020,Morgan,,medical
+3,2020,La Plata,2802713.0,retail
+3,2020,Otero,,medical
+3,2020,Larimer,8575702.0,retail
+3,2020,Park,,medical
+3,2020,Las Animas,4382701.0,retail
+3,2020,Pitkin,,medical
+3,2020,Mesa,2354555.0,retail
+3,2020,Pueblo,1455541.0,medical
+3,2020,Moffat,,retail
+3,2020,Routt,,medical
+3,2020,Montezuma,2189509.0,retail
+3,2020,Saguache,,medical
+3,2020,Montrose,,retail
+3,2020,San Miguel,,medical
+3,2020,Morgan,1752738.0,retail
+3,2020,Sedgwick,,medical
+3,2020,Otero,289359.0,retail
+3,2020,Summit,,medical
+3,2020,Ouray,831789.0,retail
+3,2020,Weld,,medical
+3,2020,Park,461899.0,retail
+3,2020,Sum of NR Counties,1868398.0,medical
+3,2020,Pitkin,1202870.0,retail
 8,2017,Adams,1126750.0,medical
 8,2017,Adams,5481342.0,retail
 8,2017,Alamosa,,medical
