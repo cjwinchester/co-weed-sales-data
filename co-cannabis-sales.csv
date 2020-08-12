@@ -3170,6 +3170,70 @@ month,year,county,amount,sales_type
 4,2020,Park,443813.0,retail
 4,2020,Sum of NR Counties,1489264.0,medical
 4,2020,Pitkin,628976.0,retail
+6,2020,Adams,819585.0,medical
+6,2020,Adams,13245628.0,retail
+6,2020,Alamosa,,medical
+6,2020,Arapahoe,15475548.0,retail
+6,2020,Arapahoe,1069434.0,medical
+6,2020,Archuleta,1576742.0,retail
+6,2020,Boulder,1306408.0,medical
+6,2020,Bent,,retail
+6,2020,Chaffee,,medical
+6,2020,Boulder,10759641.0,retail
+6,2020,Delta,,medical
+6,2020,Chaffee,757847.0,retail
+6,2020,Denver,18379149.0,medical
+6,2020,Clear Creek,792934.0,retail
+6,2020,Eagle,120840.0,medical
+6,2020,Conejos,,retail
+6,2020,El Paso,13738420.0,medical
+6,2020,Costilla,705068.0,retail
+6,2020,Fremont,,medical
+6,2020,Crowley,,retail
+6,2020,Garfield,122053.0,medical
+6,2020,Denver,47719774.0,retail
+6,2020,Grand,,medical
+6,2020,Eagle,1582305.0,retail
+6,2020,Jefferson,1644666.0,medical
+6,2020,El Paso,,retail
+6,2020,La Plata,,medical
+6,2020,Garfield,2565672.0,retail
+6,2020,Larimer,785406.0,medical
+6,2020,Gilpin,250680.0,retail
+6,2020,Las Animas,48038.0,medical
+6,2020,Grand,652513.0,retail
+6,2020,Mesa,,medical
+6,2020,Gunnison,841215.0,retail
+6,2020,Moffat,,medical
+6,2020,Huerfano,382156.0,retail
+6,2020,Montezuma,,medical
+6,2020,Jefferson,5719165.0,retail
+6,2020,Montrose,,medical
+6,2020,Lake,357254.0,retail
+6,2020,Morgan,,medical
+6,2020,La Plata,3849805.0,retail
+6,2020,Otero,,medical
+6,2020,Larimer,8405389.0,retail
+6,2020,Park,,medical
+6,2020,Las Animas,7468580.0,retail
+6,2020,Pitkin,,medical
+6,2020,Mesa,2720456.0,retail
+6,2020,Pueblo,1075404.0,medical
+6,2020,Moffat,1394796.0,retail
+6,2020,Routt,158679.0,medical
+6,2020,Montezuma,2872950.0,retail
+6,2020,Saguache,,medical
+6,2020,Montrose,,retail
+6,2020,San Miguel,,medical
+6,2020,Morgan,2125034.0,retail
+6,2020,Sedgwick,,medical
+6,2020,Otero,367925.0,retail
+6,2020,Summit,,medical
+6,2020,Ouray,994152.0,retail
+6,2020,Weld,360244.0,medical
+6,2020,Park,667435.0,retail
+6,2020,Sum of NR Counties,1142258.0,medical
+6,2020,Pitkin,1029671.0,retail
 2,2019,Adams,645769.0,medical
 2,2019,Adams,6906948.0,retail
 2,2019,Alamosa,,medical
