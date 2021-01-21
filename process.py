@@ -4,6 +4,18 @@ import csv
 
 from openpyxl import load_workbook
 
+# main file to write to
+stacked_file = 'co-cannabis-sales.csv'
+
+# common headers for CSV files
+headers = [
+    'month',
+    'year',
+    'county',
+    'amount',
+    'sales_type'
+]
+
 
 def extract_pot_data(xlsx_filename):
     '''
@@ -17,7 +29,7 @@ def extract_pot_data(xlsx_filename):
 
     # the first bit of the filename is the year and month
     namesplit = filename.split('_')[0]
-    month, year = namesplit[0:2], '20' + namesplit[2:4]
+    year, month = namesplit[:4], namesplit[-2:]
     fname = f'{year}{month}.csv'
 
     # load the workbook with openpyxl
@@ -80,34 +92,41 @@ def extract_pot_data(xlsx_filename):
                             rt = None
                         out.append([month, year, rc, rt, 'retail'])
 
+    # marry up headers w/ data
+    data = [dict(zip(headers, x)) for x in out]
+
     # return a tuple with filename and data
-    return (fname, out)
+    return (fname, data)
 
 
 # get a list of raw files
 raw_files = glob.glob(os.path.join('raw-data', '*.xlsx'))
 
-# specify the headers on our CSV files
-headers = ['month', 'year', 'county', 'amount', 'sales_type']
+with open(stacked_file, 'w') as mainfile:
+    mainwriter = csv.DictWriter(mainfile, fieldnames=headers)
+    mainwriter.writeheader()
 
-# loop over the xlsx files we downloaded
-for f in raw_files:
+    # loop over the xlsx files we downloaded
+    for f in raw_files:
 
-    # call the `extract_pot_data` function on the sheet
-    # and assign filename and data variables
-    fname, data = extract_pot_data(f)
+        # call the `extract_pot_data` function on the sheet
+        # and assign filename and data variables
+        fname, data = extract_pot_data(f)
 
-    # build path to the CSV we're creating
-    dest = os.path.join('processed-data', fname)
+        # build path to the CSV we're creating
+        dest = os.path.join('processed-data', fname)
 
-    # open that file to write to
-    with open(dest, 'w') as o:
+        # open that file to write to
+        with open(dest, 'w') as monthly_file:
 
-        # create a csv writer object
-        writer = csv.writer(o)
+            # create a csv writer object
+            monthlywriter = csv.DictWriter(monthly_file, fieldnames=headers)
 
-        # write the headers
-        writer.writerow(headers)
+            # write the headers to monthly file
+            monthlywriter.writeheader()
 
-        # write the data
-        writer.writerows(data)
+            # write the data to monthly file
+            monthlywriter.writerows(data)
+
+            # write the data to main file
+            mainwriter.writerows(data)

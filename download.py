@@ -1,17 +1,25 @@
 import os
 import glob
 import time
+from datetime import datetime
+import string
 
 import requests
 from bs4 import BeautifulSoup
 
-'''Fetches a current list of .xlsx files on the CO marijuana sales reports page and downloads the ones we don't have already.'''  # noqa
+'''Fetches a current list of .xlsx files on the CO marijuana sales reports page (now saved as google drive links because why not) and downloads the ones we don't have already.'''  # noqa
 
-# get a list of files that already exist in the `raw-data` directory
-raw_files = glob.glob(os.path.join('raw-data', '*.xlsx'))
+# folder to hold all the things
+raw_file_dir = 'raw-data'
 
-# the URL of the page with the links to the monthly sales reports
+# get a list of xlsx files we already have
+raw_files = glob.glob(os.path.join(raw_file_dir, '*.xlsx'))
+
+# the URL to the page with links to the monthly sales reports
 url = 'https://www.colorado.gov/pacific/revenue/colorado-marijuana-sales-reports'  # noqa
+
+# drive file download pattern via https://stackoverflow.com/a/39087286
+drive_download_pattern = 'https://drive.google.com/uc?export=download&id={drive_file_id}'  # noqa
 
 # fetch the main page
 r = requests.get(url)
@@ -19,40 +27,75 @@ r = requests.get(url)
 # turn it into soup
 soup = BeautifulSoup(r.text, 'html.parser')
 
-# find all `a` tags with "xlsx" in the href attribute but not "CalendarReport"
-sheets = soup.find_all('a', href=lambda x: x and 'xlsx' in x and 'CalendarReport' not in x)  # noqa
+# grab the description lists
+dls = soup.find_all('dl')
 
-# list comprehension to get just the hrefs from that list
-to_dl = [x['href'] for x in sheets]
+# jfc people, did we do this in dreamweaver
+for dl in dls:
 
-# list comprehension to get the names of the files we already have
-already_there = [x.split('/')[-1] for x in raw_files]
+    # grab the "description terms" and the
+    # "description definitions" 🙄
+    dts = dl.find_all('dt')
+    dds = dl.find_all('dd')
 
-# loop over the list of spreadsheet links to download
-for link in to_dl:
+    # have to do it this way because two years might be
+    # lumped together into one section, why not
+    zipped = list(zip(dts, dds))
 
-    # the name of the file to save locally is the last bit of the URL
-    fname = link.split('/')[-1]
+    for pair in zipped:
 
-    # see if we've already got that file
-    if fname not in already_there:
+        # the year
+        year = pair[0].get_text(strip=True)
 
-        # if not, join the destination directory to the filename
-        dest = os.path.join('raw-data', fname)
+        # the month markup
+        months = pair[1]
 
-        # print to let us know it's working
-        print(dest)
+        # sure cool let's just dump everything into a
+        # single graf with <br/>s everywhere
+        months_split = str(months.p).split('<br/>')
 
-        # fetch that file ...
-        r = requests.get(link, stream=True)
+        # go through each of these dumbshits
+        for month in months_split:
 
-        # and write it file on this computer
-        with open(dest, 'wb') as f:
+            # get the name of the month
+            month_name = month.split('<a')[0].split('>')[-1].strip()
 
-            # iterating a bit at a time over blocks of the file
-            # http://docs.python-requests.org/en/master/api/#requests.Response.iter_content
-            for block in r.iter_content(1024):
-                f.write(block)
+            # kill nonprintable cruft in some strings
+            month_clean = ''.join(
+                [x for x in month_name if x in string.printable]
+            )
 
-        # pause for 2 seconds before continuing
-        time.sleep(2)
+            # grab the 0-padded month number
+            month_num = datetime.strptime(
+                month_clean, '%B'
+            ).strftime('%m')
+
+            # turn this chunk into soup
+            month_soup = BeautifulSoup(month, 'html.parser')
+
+            # find the "Excel" link
+            drive_link = month_soup.find('a', text='Excel')['href']
+
+            # extract the drive ID
+            drive_id = drive_link.split('/d/')[-1].split('/')[0]
+
+            # build the file path
+            filename = f'{year}{month_num}_raw.xlsx'
+            filepath = os.path.join(raw_file_dir, filename)
+
+            # skip if we already have it
+            if filepath not in raw_files:
+
+                # otherwise download
+                print(f'Downloading {filename} ...')
+
+                drive_url = drive_download_pattern.format(drive_file_id=drive_id)  # noqa
+
+                r = requests.get(drive_url, stream=True)
+
+                with open(filepath, 'wb') as outfile:
+                    for block in r.iter_content(1024):
+                        outfile.write(block)
+
+                # pause for a sec before continuing
+                time.sleep(1)
