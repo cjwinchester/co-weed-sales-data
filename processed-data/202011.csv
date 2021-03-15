@@ -1,0 +1,61 @@
+month,year,county,amount,sales_type
+11,2020,Adams,650173,medical
+11,2020,Adams,12189575,retail
+11,2020,Alamosa,,medical
+11,2020,Arapahoe,14959967,retail
+11,2020,Arapahoe,908848,medical
+11,2020,Archuleta,1222101,retail
+11,2020,Boulder,1303397,medical
+11,2020,Bent,,retail
+11,2020,Chaffee,,medical
+11,2020,Boulder,10260558,retail
+11,2020,Delta,,medical
+11,2020,Chaffee,520658,retail
+11,2020,Denver,15331535,medical
+11,2020,Clear Creek,646954,retail
+11,2020,Eagle,133130,medical
+11,2020,Conejos,,retail
+11,2020,El Paso,11298703,medical
+11,2020,Costilla,494353,retail
+11,2020,Fremont,223258,medical
+11,2020,Crowley,,retail
+11,2020,Garfield,95860,medical
+11,2020,Denver,40862405,retail
+11,2020,Grand,,medical
+11,2020,Eagle,1490822,retail
+11,2020,Jefferson,1885282,medical
+11,2020,El Paso,,retail
+11,2020,La Plata,,medical
+11,2020,Garfield,2088902,retail
+11,2020,Larimer,640954,medical
+11,2020,Gilpin,248060,retail
+11,2020,Las Animas,34458,medical
+11,2020,Grand,547683,retail
+11,2020,Mesa,,medical
+11,2020,Gunnison,636555,retail
+11,2020,Moffat,,medical
+11,2020,Huerfano,278077,retail
+11,2020,Montezuma,,medical
+11,2020,Jefferson,5086574,retail
+11,2020,Montrose,,medical
+11,2020,Lake,,retail
+11,2020,Morgan,,medical
+11,2020,La Plata,2883462,retail
+11,2020,Otero,,medical
+11,2020,Larimer,9485491,retail
+11,2020,Park,,medical
+11,2020,Las Animas,5609146,retail
+11,2020,Pitkin,,medical
+11,2020,Mesa,2412084,retail
+11,2020,Pueblo,832096,medical
+11,2020,Moffat,1328243,retail
+11,2020,Routt,,medical
+11,2020,Montezuma,2247025,retail
+11,2020,Saguache,,medical
+11,2020,Montrose,,retail
+11,2020,San Miguel,,medical
+11,2020,Morgan,1698832,retail
+11,2020,Summit,,medical
+11,2020,Otero,304039,retail
+11,2020,Weld,,medical
+11,2020,Ouray,845438,retail

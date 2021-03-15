@@ -29,6 +29,7 @@ NAME,POP,state,county
 "San Miguel County, Colorado",8179,08,113
 "Boulder County, Colorado",326196,08,013
 "Elbert County, Colorado",26729,08,039
+"Yuma County, Colorado",10019,08,125
 "Lincoln County, Colorado",5701,08,073
 "Summit County, Colorado",31011,08,117
 "Clear Creek County, Colorado",9700,08,019
@@ -39,11 +40,13 @@ NAME,POP,state,county
 "Mesa County, Colorado",154210,08,077
 "Prowers County, Colorado",12172,08,099
 "El Paso County, Colorado",720403,08,041
+"Washington County, Colorado",4908,08,121
 "Arapahoe County, Colorado",656590,08,005
 "Otero County, Colorado",18278,08,089
 "Kit Carson County, Colorado",7097,08,063
 "Gunnison County, Colorado",17462,08,051
 "Ouray County, Colorado",4952,08,091
+"Weld County, Colorado",324492,08,123
 "Costilla County, Colorado",3887,08,023
 "Douglas County, Colorado",351154,08,035
 "La Plata County, Colorado",56221,08,067
@@ -52,9 +55,6 @@ NAME,POP,state,county
 "San Juan County, Colorado",728,08,111
 "Logan County, Colorado",22409,08,075
 "Teller County, Colorado",25388,08,119
-"Yuma County, Colorado",10019,08,125
-"Washington County, Colorado",4908,08,121
-"Weld County, Colorado",324492,08,123
 "Las Animas County, Colorado",14506,08,071
 "Routt County, Colorado",25638,08,107
 "Alamosa County, Colorado",16233,08,003

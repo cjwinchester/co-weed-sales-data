@@ -63,7 +63,7 @@ for dl in dls:
             # kill nonprintable cruft in some strings
             month_clean = ''.join(
                 [x for x in month_name if x in string.printable]
-            )
+            ).strip()
 
             # grab the 0-padded month number
             month_num = datetime.strptime(

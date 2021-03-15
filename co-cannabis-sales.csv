@@ -849,6 +849,130 @@ month,year,county,amount,sales_type
 09,2017,Weld,2723950,retail
 09,2017,Sum of NR Counties,788590,medical
 09,2017,Sum of NR Counties,3290855,retail
+09,2020,Adams,741017,medical
+09,2020,Adams,13323488,retail
+09,2020,Alamosa,,medical
+09,2020,Arapahoe,16113147,retail
+09,2020,Arapahoe,1052160,medical
+09,2020,Archuleta,1681439,retail
+09,2020,Boulder,1363396,medical
+09,2020,Bent,,retail
+09,2020,Chaffee,,medical
+09,2020,Boulder,11745758,retail
+09,2020,Delta,,medical
+09,2020,Chaffee,793711,retail
+09,2020,Denver,17569584,medical
+09,2020,Clear Creek,890941,retail
+09,2020,Eagle,132762,medical
+09,2020,Conejos,,retail
+09,2020,El Paso,13170772,medical
+09,2020,Costilla,731834,retail
+09,2020,Fremont,,medical
+09,2020,Crowley,,retail
+09,2020,Garfield,111523,medical
+09,2020,Denver,48325167,retail
+09,2020,Grand,,medical
+09,2020,Eagle,1831125,retail
+09,2020,Jefferson,1834754,medical
+09,2020,El Paso,,retail
+09,2020,La Plata,,medical
+09,2020,Garfield,2592746,retail
+09,2020,Larimer,747471,medical
+09,2020,Gilpin,340423,retail
+09,2020,Las Animas,,medical
+09,2020,Grand,803456,retail
+09,2020,Mesa,,medical
+09,2020,Gunnison,1061013,retail
+09,2020,Moffat,,medical
+09,2020,Huerfano,453693,retail
+09,2020,Montezuma,,medical
+09,2020,Jefferson,6017419,retail
+09,2020,Montrose,,medical
+09,2020,Lake,405147,retail
+09,2020,Morgan,,medical
+09,2020,La Plata,4087203,retail
+09,2020,Otero,,medical
+09,2020,Larimer,10195117,retail
+09,2020,Park,,medical
+09,2020,Las Animas,7240490,retail
+09,2020,Pitkin,,medical
+09,2020,Mesa,2877194,retail
+09,2020,Pueblo,1593366,medical
+09,2020,Moffat,1513895,retail
+09,2020,Routt,,medical
+09,2020,Montezuma,2892047,retail
+09,2020,Saguache,,medical
+09,2020,Montrose,,retail
+09,2020,San Miguel,,medical
+09,2020,Morgan,2008333,retail
+09,2020,Summit,,medical
+09,2020,Otero,355217,retail
+09,2020,Weld,368241,medical
+09,2020,Ouray,1154661,retail
+09,2020,Sum of NR Counties,1256103,medical
+09,2020,Park,731674,retail
+08,2020,Adams,764633,medical
+08,2020,Adams,14132898,retail
+08,2020,Alamosa,,medical
+08,2020,Arapahoe,16909557,retail
+08,2020,Arapahoe,1124807,medical
+08,2020,Archuleta,1768671,retail
+08,2020,Boulder,1356988,medical
+08,2020,Bent,,retail
+08,2020,Chaffee,,medical
+08,2020,Boulder,12547631,retail
+08,2020,Delta,,medical
+08,2020,Chaffee,,retail
+08,2020,Denver,19551025,medical
+08,2020,Clear Creek,936015,retail
+08,2020,Eagle,134938,medical
+08,2020,Conejos,,retail
+08,2020,El Paso,13634778,medical
+08,2020,Costilla,763624,retail
+08,2020,Fremont,,medical
+08,2020,Crowley,,retail
+08,2020,Garfield,112580,medical
+08,2020,Denver,52011403,retail
+08,2020,Grand,,medical
+08,2020,Eagle,2077635,retail
+08,2020,Jefferson,2085121,medical
+08,2020,El Paso,,retail
+08,2020,La Plata,,medical
+08,2020,Garfield,2538125,retail
+08,2020,Larimer,761419,medical
+08,2020,Gilpin,363139,retail
+08,2020,Las Animas,37764,medical
+08,2020,Grand,871406,retail
+08,2020,Mesa,,medical
+08,2020,Gunnison,1172858,retail
+08,2020,Moffat,,medical
+08,2020,Huerfano,506634,retail
+08,2020,Montezuma,,medical
+08,2020,Jefferson,5805803,retail
+08,2020,Montrose,,medical
+08,2020,Lake,449116,retail
+08,2020,Morgan,,medical
+08,2020,La Plata,4351267,retail
+08,2020,Otero,,medical
+08,2020,Larimer,10520821,retail
+08,2020,Park,,medical
+08,2020,Las Animas,8014108,retail
+08,2020,Pitkin,,medical
+08,2020,Mesa,2832178,retail
+08,2020,Pueblo,796964,medical
+08,2020,Moffat,1566169,retail
+08,2020,Routt,174710,medical
+08,2020,Montezuma,2865594,retail
+08,2020,Saguache,,medical
+08,2020,Montrose,,retail
+08,2020,San Miguel,,medical
+08,2020,Morgan,2129366,retail
+08,2020,Summit,,medical
+08,2020,Otero,382861,retail
+08,2020,Weld,368724,medical
+08,2020,Ouray,1179244,retail
+08,2020,Sum of NR Counties,1130295,medical
+08,2020,Park,787264,retail
 01,2016,Adams,363668,medical
 01,2016,Adams,2544485,retail
 01,2016,Alamosa,,medical
@@ -921,6 +1045,64 @@ month,year,county,amount,sales_type
 01,2016,Weld,1793538,retail
 01,2016,Sum of NR Counties,618003,medical
 01,2016,Sum of NR Counties,3701557,retail
+01,2021,Adams,650900,medical
+01,2021,Adams,12479527,retail
+01,2021,Alamosa,,medical
+01,2021,Arapahoe,15346890,retail
+01,2021,Arapahoe,927494,medical
+01,2021,Archuleta,1472872,retail
+01,2021,Boulder,1141777,medical
+01,2021,Bent,386548,retail
+01,2021,Chaffee,,medical
+01,2021,Boulder,10377496,retail
+01,2021,Delta,,medical
+01,2021,Chaffee,,retail
+01,2021,Denver,16305114,medical
+01,2021,Clear Creek,841434,retail
+01,2021,Eagle,135546,medical
+01,2021,Conejos,795259,retail
+01,2021,El Paso,11617216,medical
+01,2021,Costilla,543208,retail
+01,2021,Fremont,,medical
+01,2021,Crowley,,retail
+01,2021,Garfield,111053,medical
+01,2021,Denver,43164396,retail
+01,2021,Grand,,medical
+01,2021,Eagle,2399367,retail
+01,2021,Jefferson,1703512,medical
+01,2021,El Paso,,retail
+01,2021,La Plata,,medical
+01,2021,Garfield,2245660,retail
+01,2021,Larimer,759353,medical
+01,2021,Gilpin,243254,retail
+01,2021,Las Animas,45679,medical
+01,2021,Grand,866808,retail
+01,2021,Mesa,,medical
+01,2021,Gunnison,792813,retail
+01,2021,Moffat,,medical
+01,2021,Huerfano,265615,retail
+01,2021,Montezuma,,medical
+01,2021,Jefferson,5568918,retail
+01,2021,Montrose,,medical
+01,2021,Lake,301730,retail
+01,2021,Morgan,,medical
+01,2021,La Plata,3405494,retail
+01,2021,Otero,,medical
+01,2021,Larimer,9943733,retail
+01,2021,Park,,medical
+01,2021,Las Animas,5725252,retail
+01,2021,Pueblo,853421,medical
+01,2021,Mesa,2676127,retail
+01,2021,Routt,,medical
+01,2021,Moffat,1393939,retail
+01,2021,Saguache,,medical
+01,2021,Montezuma,2484001,retail
+01,2021,San Miguel,,medical
+01,2021,Montrose,,retail
+01,2021,Summit,,medical
+01,2021,Morgan,1678946,retail
+01,2021,Weld,377643,medical
+01,2021,Otero,,retail
 11,2019,Adams,685651,medical
 11,2019,Adams,9451567,retail
 11,2019,Alamosa,,medical
@@ -2617,6 +2799,64 @@ month,year,county,amount,sales_type
 08,2018,Saguache,198805,retail
 08,2018,Sum of NR Counties,1029234,medical
 08,2018,San Juan,,retail
+12,2020,Adams,681126,medical
+12,2020,Adams,12682090,retail
+12,2020,Alamosa,,medical
+12,2020,Arapahoe,15890336,retail
+12,2020,Arapahoe,1036551,medical
+12,2020,Archuleta,1473262,retail
+12,2020,Boulder,1264318,medical
+12,2020,Bent,,retail
+12,2020,Chaffee,,medical
+12,2020,Boulder,10458568,retail
+12,2020,Delta,,medical
+12,2020,Chaffee,609568,retail
+12,2020,Denver,15893478,medical
+12,2020,Clear Creek,763454,retail
+12,2020,Eagle,143959,medical
+12,2020,Conejos,,retail
+12,2020,El Paso,12331305,medical
+12,2020,Costilla,522280,retail
+12,2020,Fremont,,medical
+12,2020,Crowley,,retail
+12,2020,Garfield,107589,medical
+12,2020,Denver,42853367,retail
+12,2020,Grand,,medical
+12,2020,Eagle,2196488,retail
+12,2020,Jefferson,1763015,medical
+12,2020,El Paso,,retail
+12,2020,La Plata,,medical
+12,2020,Garfield,2253585,retail
+12,2020,Larimer,860400,medical
+12,2020,Gilpin,249569,retail
+12,2020,Las Animas,,medical
+12,2020,Grand,857364,retail
+12,2020,Mesa,,medical
+12,2020,Gunnison,768567,retail
+12,2020,Moffat,,medical
+12,2020,Huerfano,270637,retail
+12,2020,Montezuma,,medical
+12,2020,Jefferson,5819236,retail
+12,2020,Montrose,,medical
+12,2020,Lake,290620,retail
+12,2020,Morgan,,medical
+12,2020,La Plata,3263824,retail
+12,2020,Otero,,medical
+12,2020,Larimer,9928725,retail
+12,2020,Park,,medical
+12,2020,Las Animas,5280324,retail
+12,2020,Pitkin,,medical
+12,2020,Mesa,2531159,retail
+12,2020,Pueblo,864921,medical
+12,2020,Moffat,1317621,retail
+12,2020,Routt,,medical
+12,2020,Montezuma,2377939,retail
+12,2020,San Miguel,,medical
+12,2020,Montrose,,retail
+12,2020,Summit,,medical
+12,2020,Morgan,1580399,retail
+12,2020,Weld,381658,medical
+12,2020,Otero,328434,retail
 12,2017,Adams,782044,medical
 12,2017,Adams,6120302,retail
 12,2017,Alamosa,,medical
@@ -4337,6 +4577,128 @@ month,year,county,amount,sales_type
 01,2015,Sum of NR Counties,2860806,retail
 01,2015,Weld,340278,medical
 01,2015,Sum of NR Counties,761292,medical
+10,2020,Adams,716177,medical
+10,2020,Adams,13204959,retail
+10,2020,Alamosa,,medical
+10,2020,Arapahoe,16450038,retail
+10,2020,Arapahoe,1029767,medical
+10,2020,Archuleta,1481254,retail
+10,2020,Boulder,1382416,medical
+10,2020,Bent,,retail
+10,2020,Chaffee,,medical
+10,2020,Boulder,11622740,retail
+10,2020,Delta,,medical
+10,2020,Chaffee,665749,retail
+10,2020,Denver,18032316,medical
+10,2020,Clear Creek,817036,retail
+10,2020,Eagle,136721,medical
+10,2020,Conejos,,retail
+10,2020,El Paso,12431188,medical
+10,2020,Costilla,641992,retail
+10,2020,Fremont,,medical
+10,2020,Crowley,,retail
+10,2020,Garfield,119428,medical
+10,2020,Denver,47172820,retail
+10,2020,Grand,,medical
+10,2020,Eagle,1639581,retail
+10,2020,Jefferson,1572699,medical
+10,2020,El Paso,,retail
+10,2020,La Plata,,medical
+10,2020,Garfield,2532550,retail
+10,2020,Larimer,740235,medical
+10,2020,Gilpin,334252,retail
+10,2020,Las Animas,31435,medical
+10,2020,Grand,632651,retail
+10,2020,Mesa,,medical
+10,2020,Gunnison,867733,retail
+10,2020,Moffat,,medical
+10,2020,Huerfano,355511,retail
+10,2020,Montezuma,,medical
+10,2020,Jefferson,6031115,retail
+10,2020,Montrose,,medical
+10,2020,Lake,316410,retail
+10,2020,Morgan,,medical
+10,2020,La Plata,3689754,retail
+10,2020,Otero,,medical
+10,2020,Larimer,9893740,retail
+10,2020,Park,,medical
+10,2020,Las Animas,6506906,retail
+10,2020,Pitkin,,medical
+10,2020,Mesa,2812739,retail
+10,2020,Pueblo,926138,medical
+10,2020,Moffat,1560740,retail
+10,2020,Routt,,medical
+10,2020,Montezuma,2738154,retail
+10,2020,Saguache,,medical
+10,2020,Montrose,,retail
+10,2020,San Miguel,,medical
+10,2020,Morgan,2048009,retail
+10,2020,Summit,,medical
+10,2020,Otero,342674,retail
+10,2020,Weld,373466,medical
+10,2020,Ouray,1071466,retail
+10,2020,Sum of NR Counties,1296958,medical
+10,2020,Park,679385,retail
+11,2020,Adams,650173,medical
+11,2020,Adams,12189575,retail
+11,2020,Alamosa,,medical
+11,2020,Arapahoe,14959967,retail
+11,2020,Arapahoe,908848,medical
+11,2020,Archuleta,1222101,retail
+11,2020,Boulder,1303397,medical
+11,2020,Bent,,retail
+11,2020,Chaffee,,medical
+11,2020,Boulder,10260558,retail
+11,2020,Delta,,medical
+11,2020,Chaffee,520658,retail
+11,2020,Denver,15331535,medical
+11,2020,Clear Creek,646954,retail
+11,2020,Eagle,133130,medical
+11,2020,Conejos,,retail
+11,2020,El Paso,11298703,medical
+11,2020,Costilla,494353,retail
+11,2020,Fremont,223258,medical
+11,2020,Crowley,,retail
+11,2020,Garfield,95860,medical
+11,2020,Denver,40862405,retail
+11,2020,Grand,,medical
+11,2020,Eagle,1490822,retail
+11,2020,Jefferson,1885282,medical
+11,2020,El Paso,,retail
+11,2020,La Plata,,medical
+11,2020,Garfield,2088902,retail
+11,2020,Larimer,640954,medical
+11,2020,Gilpin,248060,retail
+11,2020,Las Animas,34458,medical
+11,2020,Grand,547683,retail
+11,2020,Mesa,,medical
+11,2020,Gunnison,636555,retail
+11,2020,Moffat,,medical
+11,2020,Huerfano,278077,retail
+11,2020,Montezuma,,medical
+11,2020,Jefferson,5086574,retail
+11,2020,Montrose,,medical
+11,2020,Lake,,retail
+11,2020,Morgan,,medical
+11,2020,La Plata,2883462,retail
+11,2020,Otero,,medical
+11,2020,Larimer,9485491,retail
+11,2020,Park,,medical
+11,2020,Las Animas,5609146,retail
+11,2020,Pitkin,,medical
+11,2020,Mesa,2412084,retail
+11,2020,Pueblo,832096,medical
+11,2020,Moffat,1328243,retail
+11,2020,Routt,,medical
+11,2020,Montezuma,2247025,retail
+11,2020,Saguache,,medical
+11,2020,Montrose,,retail
+11,2020,San Miguel,,medical
+11,2020,Morgan,1698832,retail
+11,2020,Summit,,medical
+11,2020,Otero,304039,retail
+11,2020,Weld,,medical
+11,2020,Ouray,845438,retail
 11,2017,Adams,999483,medical
 11,2017,Adams,5558469,retail
 11,2017,Alamosa,,medical

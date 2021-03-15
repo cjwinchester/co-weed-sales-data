@@ -1,0 +1,59 @@
+month,year,county,amount,sales_type
+01,2021,Adams,650900,medical
+01,2021,Adams,12479527,retail
+01,2021,Alamosa,,medical
+01,2021,Arapahoe,15346890,retail
+01,2021,Arapahoe,927494,medical
+01,2021,Archuleta,1472872,retail
+01,2021,Boulder,1141777,medical
+01,2021,Bent,386548,retail
+01,2021,Chaffee,,medical
+01,2021,Boulder,10377496,retail
+01,2021,Delta,,medical
+01,2021,Chaffee,,retail
+01,2021,Denver,16305114,medical
+01,2021,Clear Creek,841434,retail
+01,2021,Eagle,135546,medical
+01,2021,Conejos,795259,retail
+01,2021,El Paso,11617216,medical
+01,2021,Costilla,543208,retail
+01,2021,Fremont,,medical
+01,2021,Crowley,,retail
+01,2021,Garfield,111053,medical
+01,2021,Denver,43164396,retail
+01,2021,Grand,,medical
+01,2021,Eagle,2399367,retail
+01,2021,Jefferson,1703512,medical
+01,2021,El Paso,,retail
+01,2021,La Plata,,medical
+01,2021,Garfield,2245660,retail
+01,2021,Larimer,759353,medical
+01,2021,Gilpin,243254,retail
+01,2021,Las Animas,45679,medical
+01,2021,Grand,866808,retail
+01,2021,Mesa,,medical
+01,2021,Gunnison,792813,retail
+01,2021,Moffat,,medical
+01,2021,Huerfano,265615,retail
+01,2021,Montezuma,,medical
+01,2021,Jefferson,5568918,retail
+01,2021,Montrose,,medical
+01,2021,Lake,301730,retail
+01,2021,Morgan,,medical
+01,2021,La Plata,3405494,retail
+01,2021,Otero,,medical
+01,2021,Larimer,9943733,retail
+01,2021,Park,,medical
+01,2021,Las Animas,5725252,retail
+01,2021,Pueblo,853421,medical
+01,2021,Mesa,2676127,retail
+01,2021,Routt,,medical
+01,2021,Moffat,1393939,retail
+01,2021,Saguache,,medical
+01,2021,Montezuma,2484001,retail
+01,2021,San Miguel,,medical
+01,2021,Montrose,,retail
+01,2021,Summit,,medical
+01,2021,Morgan,1678946,retail
+01,2021,Weld,377643,medical
+01,2021,Otero,,retail
