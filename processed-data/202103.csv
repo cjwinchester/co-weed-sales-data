@@ -1,0 +1,63 @@
+month,year,county,amount,sales_type
+03,2021,Adams,680799,medical
+03,2021,Adams,14056356,retail
+03,2021,Alamosa,,medical
+03,2021,Arapahoe,14931279,retail
+03,2021,Arapahoe,958729,medical
+03,2021,Archuleta,1571781,retail
+03,2021,Boulder,1198711,medical
+03,2021,Bent,565379,retail
+03,2021,Chaffee,,medical
+03,2021,Boulder,10806131,retail
+03,2021,Delta,,medical
+03,2021,Chaffee,531759,retail
+03,2021,Denver,18920219,medical
+03,2021,Clear Creek,915530,retail
+03,2021,Eagle,140682,medical
+03,2021,Conejos,965771,retail
+03,2021,El Paso,12645283,medical
+03,2021,Costilla,635894,retail
+03,2021,Fremont,,medical
+03,2021,Crowley,,retail
+03,2021,Garfield,124640,medical
+03,2021,Denver,47036290,retail
+03,2021,Gilpin,,medical
+03,2021,Eagle,2454412,retail
+03,2021,Grand,,medical
+03,2021,El Paso,,retail
+03,2021,Jefferson,1934454,medical
+03,2021,Garfield,2633917,retail
+03,2021,La Plata,,medical
+03,2021,Gilpin,290596,retail
+03,2021,Larimer,872264,medical
+03,2021,Grand,930113,retail
+03,2021,Las Animas,49180,medical
+03,2021,Gunnison,886730,retail
+03,2021,Mesa,,medical
+03,2021,Huerfano,346396,retail
+03,2021,Moffat,,medical
+03,2021,Jefferson,6200829,retail
+03,2021,Montezuma,,medical
+03,2021,Lake,335291,retail
+03,2021,Montrose,,medical
+03,2021,La Plata,4031308,retail
+03,2021,Morgan,,medical
+03,2021,Larimer,10426496,retail
+03,2021,Otero,,medical
+03,2021,Las Animas,6669108,retail
+03,2021,Park,,medical
+03,2021,Mesa,3195824,retail
+03,2021,Pitkin,,medical
+03,2021,Moffat,1515357,retail
+03,2021,Pueblo,976881,medical
+03,2021,Montezuma,2980607,retail
+03,2021,Routt,,medical
+03,2021,Montrose,,retail
+03,2021,Saguache,,medical
+03,2021,Morgan,1912096,retail
+03,2021,San Miguel,,medical
+03,2021,Otero,371355,retail
+03,2021,Summit,,medical
+03,2021,Ouray,1072983,retail
+03,2021,Weld,412680,medical
+03,2021,Park,665058,retail
