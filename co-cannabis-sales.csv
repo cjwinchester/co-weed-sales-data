@@ -5756,3 +5756,125 @@ month,year,county,amount,sales_type
 05,2016,Weld,2043048,retail
 05,2016,Sum of NR Counties,731330,medical
 05,2016,Sum of NR Counties,3610718,retail
+05,2021,Adams,652839,medical
+05,2021,Adams,13317264,retail
+05,2021,Alamosa,,medical
+05,2021,Arapahoe,16573897,retail
+05,2021,Arapahoe,925779,medical
+05,2021,Archuleta,1378092,retail
+05,2021,Boulder,1083365,medical
+05,2021,Bent,,retail
+05,2021,Chaffee,,medical
+05,2021,Boulder,11477690,retail
+05,2021,Delta,,medical
+05,2021,Chaffee,628784,retail
+05,2021,Denver,16823800,medical
+05,2021,Clear Creek,748995,retail
+05,2021,Eagle,130301,medical
+05,2021,Conejos,,retail
+05,2021,El Paso,11430726,medical
+05,2021,Costilla,661317,retail
+05,2021,Fremont,,medical
+05,2021,Crowley,,retail
+05,2021,Garfield,118438,medical
+05,2021,Denver,44690721,retail
+05,2021,Gilpin,,medical
+05,2021,Eagle,1274260,retail
+05,2021,Grand,,medical
+05,2021,El Paso,,retail
+05,2021,Jefferson,2032557,medical
+05,2021,Garfield,2530312,retail
+05,2021,La Plata,,medical
+05,2021,Gilpin,350736,retail
+05,2021,Larimer,820538,medical
+05,2021,Grand,578478,retail
+05,2021,Las Animas,44645,medical
+05,2021,Gunnison,673398,retail
+05,2021,Mesa,,medical
+05,2021,Huerfano,389170,retail
+05,2021,Montezuma,,medical
+05,2021,Jefferson,5622713,retail
+05,2021,Montrose,,medical
+05,2021,Lake,289244,retail
+05,2021,Morgan,,medical
+05,2021,La Plata,3875521,retail
+05,2021,Otero,,medical
+05,2021,Larimer,9788696,retail
+05,2021,Park,,medical
+05,2021,Las Animas,5986430,retail
+05,2021,Pitkin,,medical
+05,2021,Mesa,3079919,retail
+05,2021,Pueblo,955590,medical
+05,2021,Moffat,1457874,retail
+05,2021,Routt,,medical
+05,2021,Montezuma,2882856,retail
+05,2021,Saguache,,medical
+05,2021,Montrose,,retail
+05,2021,San Miguel,,medical
+05,2021,Morgan,1797092,retail
+05,2021,Summit,72782,medical
+05,2021,Otero,366188,retail
+05,2021,Weld,376210,medical
+05,2021,Ouray,1083243,retail
+04,2021,Adams,520818,medical
+04,2021,Adams,13905945,retail
+04,2021,Alamosa,,medical
+04,2021,Arapahoe,17211160,retail
+04,2021,Arapahoe,936589,medical
+04,2021,Archuleta,1231801,retail
+04,2021,Boulder,1199576,medical
+04,2021,Bent,539816,retail
+04,2021,Chaffee,,medical
+04,2021,Boulder,11577842,retail
+04,2021,Delta,,medical
+04,2021,Chaffee,616994,retail
+04,2021,Denver,18562052,medical
+04,2021,Clear Creek,837242,retail
+04,2021,Eagle,148555,medical
+04,2021,Conejos,974060,retail
+04,2021,El Paso,12618054,medical
+04,2021,Costilla,632109,retail
+04,2021,Fremont,,medical
+04,2021,Crowley,,retail
+04,2021,Garfield,124937,medical
+04,2021,Denver,49268036,retail
+04,2021,Gilpin,,medical
+04,2021,Eagle,1675191,retail
+04,2021,Grand,,medical
+04,2021,El Paso,,retail
+04,2021,Jefferson,1862011,medical
+04,2021,Garfield,2554331,retail
+04,2021,La Plata,,medical
+04,2021,Gilpin,310364,retail
+04,2021,Larimer,890313,medical
+04,2021,Grand,637953,retail
+04,2021,Las Animas,42419,medical
+04,2021,Gunnison,652774,retail
+04,2021,Mesa,,medical
+04,2021,Huerfano,359979,retail
+04,2021,Moffat,,medical
+04,2021,Jefferson,6209176,retail
+04,2021,Montezuma,,medical
+04,2021,Lake,,retail
+04,2021,Montrose,,medical
+04,2021,La Plata,3869190,retail
+04,2021,Morgan,,medical
+04,2021,Larimer,9768952,retail
+04,2021,Otero,,medical
+04,2021,Las Animas,6339640,retail
+04,2021,Park,,medical
+04,2021,Mesa,3239417,retail
+04,2021,Pitkin,,medical
+04,2021,Moffat,1577721,retail
+04,2021,Pueblo,1005294,medical
+04,2021,Montezuma,3030807,retail
+04,2021,Routt,,medical
+04,2021,Montrose,,retail
+04,2021,Saguache,,medical
+04,2021,Morgan,1858539,retail
+04,2021,San Miguel,,medical
+04,2021,Otero,385901,retail
+04,2021,Summit,,medical
+04,2021,Ouray,1061412,retail
+04,2021,Weld,412466,medical
+04,2021,Park,632775,retail
