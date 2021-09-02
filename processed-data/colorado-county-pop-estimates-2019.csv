@@ -3,16 +3,15 @@ NAME,POP,state,county
 "Phillips County, Colorado",4265,08,095
 "Archuleta County, Colorado",14029,08,007
 "Denver County, Colorado",727211,08,031
-"Kiowa County, Colorado",1406,08,061
-"Huerfano County, Colorado",6897,08,055
 "Baca County, Colorado",3581,08,009
 "Chaffee County, Colorado",20356,08,015
-"Gilpin County, Colorado",6243,08,047
 "Garfield County, Colorado",60061,08,045
+"Kiowa County, Colorado",1406,08,061
+"Huerfano County, Colorado",6897,08,055
+"Gilpin County, Colorado",6243,08,047
 "Jefferson County, Colorado",582881,08,059
 "Mineral County, Colorado",769,08,079
 "Rio Blanco County, Colorado",6324,08,103
-"Sedgwick County, Colorado",2248,08,115
 "Conejos County, Colorado",8205,08,021
 "Custer County, Colorado",5068,08,027
 "Adams County, Colorado",517421,08,001
@@ -29,9 +28,7 @@ NAME,POP,state,county
 "San Miguel County, Colorado",8179,08,113
 "Boulder County, Colorado",326196,08,013
 "Elbert County, Colorado",26729,08,039
-"Yuma County, Colorado",10019,08,125
 "Lincoln County, Colorado",5701,08,073
-"Summit County, Colorado",31011,08,117
 "Clear Creek County, Colorado",9700,08,019
 "Delta County, Colorado",31162,08,029
 "Pueblo County, Colorado",168424,08,101
@@ -41,6 +38,9 @@ NAME,POP,state,county
 "Prowers County, Colorado",12172,08,099
 "El Paso County, Colorado",720403,08,041
 "Washington County, Colorado",4908,08,121
+"Sedgwick County, Colorado",2248,08,115
+"Yuma County, Colorado",10019,08,125
+"Summit County, Colorado",31011,08,117
 "Arapahoe County, Colorado",656590,08,005
 "Otero County, Colorado",18278,08,089
 "Kit Carson County, Colorado",7097,08,063
