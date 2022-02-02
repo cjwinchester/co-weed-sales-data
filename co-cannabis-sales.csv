@@ -6186,3 +6186,65 @@ month,year,county,amount,sales_type
 10,2021,San Miguel,0.0,medical
 10,2021,Summit,84721.11,medical
 10,2021,Weld,317151.52,medical
+11,2021,Adams,488566.28,medical
+11,2021,Adams,11614208.0,retail
+11,2021,Alamosa,0.0,medical
+11,2021,Arapahoe,695923.58,medical
+11,2021,Arapahoe,14948103.0,retail
+11,2021,Archuleta,1128911.0,retail
+11,2021,Bent,0.0,medical
+11,2021,Bent,508081.0,retail
+11,2021,Boulder,1026927.05,medical
+11,2021,Boulder,9701898.0,retail
+11,2021,Chaffee,0.0,medical
+11,2021,Chaffee,541238.0,retail
+11,2021,Clear Creek,754592.0,retail
+11,2021,Conejos,828295.0,retail
+11,2021,Costilla,422117.0,retail
+11,2021,Crowley,0.0,retail
+11,2021,Delta,0.0,medical
+11,2021,Denver,11741783.66,medical
+11,2021,Denver,34532971.0,retail
+11,2021,Eagle,110068.29,medical
+11,2021,Eagle,1400215.0,retail
+11,2021,El Paso,8547336.98,medical
+11,2021,El Paso,0.0,retail
+11,2021,Fremont,0.0,medical
+11,2021,Garfield,90782.51,medical
+11,2021,Garfield,2035653.0,retail
+11,2021,Gilpin,241662.0,retail
+11,2021,Grand,0.0,medical
+11,2021,Grand,540757.0,retail
+11,2021,Gunnison,605041.0,retail
+11,2021,Huerfano,303308.0,retail
+11,2021,Jefferson,1240034.85,medical
+11,2021,Jefferson,5450760.0,retail
+11,2021,La Plata,0.0,medical
+11,2021,La Plata,3088538.0,retail
+11,2021,Lake,253664.0,retail
+11,2021,Larimer,732029.33,medical
+11,2021,Larimer,9290480.0,retail
+11,2021,Las Animas,0.0,medical
+11,2021,Las Animas,4519068.0,retail
+11,2021,Mesa,0.0,medical
+11,2021,Mesa,2545883.0,retail
+11,2021,Moffat,0.0,medical
+11,2021,Moffat,1352646.0,retail
+11,2021,Montezuma,0.0,medical
+11,2021,Montezuma,2055613.0,retail
+11,2021,Montrose,0.0,medical
+11,2021,Montrose,0.0,retail
+11,2021,Morgan,0.0,medical
+11,2021,Morgan,1407610.0,retail
+11,2021,Otero,0.0,medical
+11,2021,Otero,266176.0,retail
+11,2021,Ouray,902541.0,retail
+11,2021,Park,0.0,medical
+11,2021,Park,562593.0,retail
+11,2021,Pitkin,0.0,medical
+11,2021,Pueblo,703575.76,medical
+11,2021,Routt,0.0,medical
+11,2021,Saguache,0.0,medical
+11,2021,San Miguel,0.0,medical
+11,2021,Summit,77189.75,medical
+11,2021,Weld,304802.2,medical
