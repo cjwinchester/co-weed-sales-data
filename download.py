@@ -1,101 +1,87 @@
-import os
-import glob
-import time
-from datetime import datetime
-import string
+import csv
+from io import StringIO
 
 import requests
-from bs4 import BeautifulSoup
 
-'''Fetches a current list of .xlsx files on the CO marijuana sales reports page (now saved as google drive links because why not) and downloads the ones we don't have already.'''  # noqa
+sheet_id = '1br_cwfHy24d2R2bcXacb2KarOIBKGrbR'
+csv_link = f'https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv'  # noqa
+csv_outfile = 'co-cannabis-sales.csv'
 
-# folder to hold all the things
-raw_file_dir = 'raw-data'
+headers = [
+    'monthyear',
+    'month',
+    'year',
+    'county',
+    'amount',
+    'sales_type'
+]
 
-# get a list of xlsx files we already have
-raw_files = glob.glob(os.path.join(raw_file_dir, '*.xlsx'))
+r = requests.get(csv_link)
 
-# the URL to the page with links to the monthly sales reports
-url = 'https://www.colorado.gov/pacific/revenue/colorado-marijuana-sales-reports'  # noqa
+data = list(csv.reader(StringIO(r.text)))[5:-10]
 
-# drive file download pattern via https://stackoverflow.com/a/39087286
-drive_download_pattern = 'https://drive.google.com/uc?export=download&id={drive_file_id}'  # noqa
+monthly_totals = {}
 
-# fetch the main page
-r = requests.get(url)
+with open(csv_outfile, 'w') as outfile:
+    writer = csv.writer(outfile)
+    writer.writerow(headers)
 
-# turn it into soup
-soup = BeautifulSoup(r.text, 'html.parser')
+    for row in data:
+        month, year, county, medical, retail = [x.strip().upper() for x in row]
+        year_month = f'{year}{month.zfill(2)}'
 
-# grab the description lists
-dls = soup.find_all('dl')
+        if not monthly_totals.get(year_month):
+            monthly_totals[year_month] = {
+                'total_medical': 0,
+                'non_nr_total_medical': 0,
+                'total_retail': 0,
+                'non_nr_total_retail': 0
+            }
 
-# jfc people, did we do this in dreamweaver
-for dl in dls:
+        try:
+            medical = int(medical.replace('$', '').replace(',', ''))
+        except ValueError:
+            pass
 
-    # grab the "description terms" and the
-    # "description definitions" 🙄
-    dts = dl.find_all('dt')
-    dds = dl.find_all('dd')
+        try:
+            retail = int(retail.replace('$', '').replace(',', ''))
+        except ValueError:
+            pass
 
-    # have to do it this way because two years might be
-    # lumped together into one section, why not
-    zipped = list(zip(dts, dds))
+        if county == 'TOTAL':
+            monthly_totals[year_month]['total_medical'] = medical
+            monthly_totals[year_month]['total_retail'] = retail
+        else:
+            if type(medical) == int:
+                monthly_totals[year_month]['non_nr_total_medical'] += medical
+                data_med = [
+                    year_month,
+                    month,
+                    year,
+                    county,
+                    medical,
+                    'medical'
+                ]
+                writer.writerow(data_med)
 
-    for pair in zipped:
+            if type(retail) == int:
+                monthly_totals[year_month]['non_nr_total_retail'] += retail
+                data_ret = [
+                    year_month,
+                    month,
+                    year,
+                    county,
+                    retail,
+                    'retail'
+                ]
+                writer.writerow(data_ret)
 
-        # the year
-        year = pair[0].get_text(strip=True)
+    for monthyear in monthly_totals:
+        totals = monthly_totals[monthyear]
+        nr_med = totals['total_medical'] - totals['non_nr_total_medical']
+        nr_ret = totals['total_retail'] - totals['non_nr_total_retail']
+        year = int(monthyear[:4])
+        month = int(monthyear[-2:])
 
-        # the month markup
-        months = pair[1]
-
-        # sure cool let's just dump everything into a
-        # single graf with <br/>s everywhere
-        months_split = str(months.p).split('<br/>')
-
-        # go through each of these dumbshits
-        for month in months_split:
-
-            # get the name of the month
-            month_name = month.split('<a')[0].split('>')[-1].strip()
-
-            # kill nonprintable cruft in some strings
-            month_clean = ''.join(
-                [x for x in month_name if x in string.printable]
-            ).strip()
-
-            # grab the 0-padded month number
-            month_num = datetime.strptime(
-                month_clean, '%B'
-            ).strftime('%m')
-
-            # turn this chunk into soup
-            month_soup = BeautifulSoup(month, 'html.parser')
-
-            # find the "Excel" link
-            drive_link = month_soup.find('a', text='Excel')['href']
-
-            # extract the drive ID
-            drive_id = drive_link.split('/d/')[-1].split('/')[0]
-
-            # build the file path
-            filename = f'{year}{month_num}_raw.xlsx'
-            filepath = os.path.join(raw_file_dir, filename)
-
-            # skip if we already have it
-            if filepath not in raw_files:
-
-                # otherwise download
-                print(f'Downloading {filename} ...')
-
-                drive_url = drive_download_pattern.format(drive_file_id=drive_id)  # noqa
-
-                r = requests.get(drive_url, stream=True)
-
-                with open(filepath, 'wb') as outfile:
-                    for block in r.iter_content(1024):
-                        outfile.write(block)
-
-                # pause for a sec before continuing
-                time.sleep(1)
+        writer.writerow([monthyear, month, year, 'SUM OF NR COUNTIES', nr_ret, 'retail'])
+        writer.writerow([monthyear, month, year, 'SUM OF NR COUNTIES', nr_med, 'medical'])
