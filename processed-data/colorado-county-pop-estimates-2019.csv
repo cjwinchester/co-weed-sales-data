@@ -11,6 +11,7 @@ NAME,POP,state,county
 "Mineral County, Colorado",769,08,079
 "Ouray County, Colorado",4952,08,091
 "Sedgwick County, Colorado",2248,08,115
+"Weld County, Colorado",324492,08,123
 "Custer County, Colorado",5068,08,027
 "Costilla County, Colorado",3887,08,023
 "Douglas County, Colorado",351154,08,035
@@ -24,6 +25,7 @@ NAME,POP,state,county
 "Larimer County, Colorado",356899,08,069
 "Logan County, Colorado",22409,08,075
 "San Miguel County, Colorado",8179,08,113
+"Teller County, Colorado",25388,08,119
 "Elbert County, Colorado",26729,08,039
 "Las Animas County, Colorado",14506,08,071
 "Lincoln County, Colorado",5701,08,073
@@ -36,6 +38,7 @@ NAME,POP,state,county
 "Saguache County, Colorado",6824,08,109
 "Prowers County, Colorado",12172,08,099
 "Broomfield County, Colorado",70465,08,014
+"Washington County, Colorado",4908,08,121
 "Grand County, Colorado",15734,08,049
 "Otero County, Colorado",18278,08,089
 "Hinsdale County, Colorado",820,08,053
@@ -44,9 +47,6 @@ NAME,POP,state,county
 "Montezuma County, Colorado",26183,08,083
 "Boulder County, Colorado",326196,08,013
 "Yuma County, Colorado",10019,08,125
-"Weld County, Colorado",324492,08,123
-"Teller County, Colorado",25388,08,119
-"Washington County, Colorado",4908,08,121
 "Routt County, Colorado",25638,08,107
 "Clear Creek County, Colorado",9700,08,019
 "Pueblo County, Colorado",168424,08,101
