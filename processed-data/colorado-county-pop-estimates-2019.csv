@@ -11,17 +11,21 @@ NAME,POP,state,county
 "Mineral County, Colorado",769,08,079
 "Ouray County, Colorado",4952,08,091
 "Sedgwick County, Colorado",2248,08,115
+"Weld County, Colorado",324492,08,123
 "Custer County, Colorado",5068,08,027
+"Costilla County, Colorado",3887,08,023
 "Douglas County, Colorado",351154,08,035
 "Lake County, Colorado",8127,08,065
 "La Plata County, Colorado",56221,08,067
 "Pitkin County, Colorado",17767,08,097
 "Rio Grande County, Colorado",11267,08,105
 "Bent County, Colorado",5577,08,011
+"Crowley County, Colorado",6061,08,025
 "San Juan County, Colorado",728,08,111
 "Larimer County, Colorado",356899,08,069
 "Logan County, Colorado",22409,08,075
 "San Miguel County, Colorado",8179,08,113
+"Teller County, Colorado",25388,08,119
 "Elbert County, Colorado",26729,08,039
 "Las Animas County, Colorado",14506,08,071
 "Lincoln County, Colorado",5701,08,073
@@ -34,13 +38,9 @@ NAME,POP,state,county
 "Saguache County, Colorado",6824,08,109
 "Prowers County, Colorado",12172,08,099
 "Washington County, Colorado",4908,08,121
-"Costilla County, Colorado",3887,08,023
-"Crowley County, Colorado",6061,08,025
-"Broomfield County, Colorado",70465,08,014
-"Weld County, Colorado",324492,08,123
-"Teller County, Colorado",25388,08,119
 "Grand County, Colorado",15734,08,049
 "Otero County, Colorado",18278,08,089
+"Broomfield County, Colorado",70465,08,014
 "Hinsdale County, Colorado",820,08,053
 "Dolores County, Colorado",2055,08,033
 "Jackson County, Colorado",1392,08,057
