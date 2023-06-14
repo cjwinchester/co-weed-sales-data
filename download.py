@@ -36,8 +36,6 @@ def get_fips_lookup():
     return lookup
 
 
-lookup = get_fips_lookup()
-
 r = requests.get(csv_link)
 
 data = list(csv.reader(StringIO(r.text)))[5:-10]
