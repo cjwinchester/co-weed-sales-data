@@ -9,5 +9,4 @@ Some Python code to fetch, process and analyze [cannabis sales reports data in C
 - `cd` into the directory
 - Create & activate a virtual environment with your tooling of choice
 - `pip install -r requirements.txt`
-- To download the data and write to local file: `python download.py`
-- To run the notebook server: `jupyter notebook`
+- To run the notebook server: `jupyter lab`
